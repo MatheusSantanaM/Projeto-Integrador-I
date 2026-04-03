@@ -22,6 +22,7 @@
   },
   "name":"Simulador de Trânsito",
   "resources":[
+    {"id":{"name":"obj_background","path":"objects/obj_background/obj_background.yy",},},
     {"id":{"name":"obj_button_jgr","path":"objects/obj_button_jgr/obj_button_jgr.yy",},},
     {"id":{"name":"obj_button_opcoes","path":"objects/obj_button_opcoes/obj_button_opcoes.yy",},},
     {"id":{"name":"obj_carro","path":"objects/obj_carro/obj_carro.yy",},},
@@ -32,6 +33,7 @@
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"room_testes","path":"rooms/room_testes/room_testes.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_button_jgr","path":"sprites/spr_button_jgr/spr_button_jgr.yy",},},
     {"id":{"name":"spr_carro","path":"sprites/spr_carro/spr_carro.yy",},},
     {"id":{"name":"spr_cenario_dir","path":"sprites/spr_cenario_dir/spr_cenario_dir.yy",},},
