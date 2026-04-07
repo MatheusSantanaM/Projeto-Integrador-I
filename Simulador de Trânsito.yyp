@@ -34,6 +34,7 @@
     {"id":{"name":"obj_cenario_esq","path":"objects/obj_cenario_esq/obj_cenario_esq.yy",},},
     {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},},
     {"id":{"name":"obj_pedestres","path":"objects/obj_pedestres/obj_pedestres.yy",},},
+    {"id":{"name":"obj_rua","path":"objects/obj_rua/obj_rua.yy",},},
     {"id":{"name":"obj_sel_car_dir","path":"objects/obj_sel_car_dir/obj_sel_car_dir.yy",},},
     {"id":{"name":"obj_sel_car_esq","path":"objects/obj_sel_car_esq/obj_sel_car_esq.yy",},},
     {"id":{"name":"obj_sel_car","path":"objects/obj_sel_car/obj_sel_car.yy",},},
