@@ -10,10 +10,10 @@
     {"name":"inst_F1AF51E","path":"rooms/Menu/Menu.yy",},
     {"name":"inst_4ED01B67","path":"rooms/Menu/Menu.yy",},
     {"name":"inst_4DAAB22F","path":"rooms/Menu/Menu.yy",},
-    {"name":"inst_1143E3A2","path":"rooms/Menu/Menu.yy",},
-    {"name":"inst_2653FC1C","path":"rooms/Menu/Menu.yy",},
-    {"name":"inst_D2D0D2C","path":"rooms/Menu/Menu.yy",},
     {"name":"inst_193E5378","path":"rooms/Menu/Menu.yy",},
+    {"name":"inst_1143E3A2","path":"rooms/Menu/Menu.yy",},
+    {"name":"inst_D2D0D2C","path":"rooms/Menu/Menu.yy",},
+    {"name":"inst_2653FC1C","path":"rooms/Menu/Menu.yy",},
   ],
   "isDnd":false,
   "layers":[
