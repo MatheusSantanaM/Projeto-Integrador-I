@@ -1,1 +1,1 @@
-room_goto(fase1);
+room_goto(seletor_fases)
