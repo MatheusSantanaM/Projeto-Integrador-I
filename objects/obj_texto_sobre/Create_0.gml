@@ -1,0 +1,1 @@
+fonte_pixel = font_add("Minecraftia-Regular.ttf", 15, true, true, 32, 128)

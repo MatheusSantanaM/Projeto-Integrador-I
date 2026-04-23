@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_credits",
-  "eventList":[],
+  "%Name":"obj_button_back",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_button_credits",
+  "name":"obj_button_back",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_button_credits",
-    "path":"sprites/spr_button_credits/spr_button_credits.yy",
+    "name":"spr_button_back",
+    "path":"sprites/spr_button_back/spr_button_back.yy",
   },
   "spriteMaskId":null,
   "visible":true,
