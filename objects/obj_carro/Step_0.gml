@@ -35,5 +35,5 @@ if (place_meeting(x, y, obj_faixa)) {
 
 if (entrou_faixa && !place_meeting(x, y, obj_faixa) && !contagem_iniciada) {
     contagem_iniciada = true;
-    alarm[0] = room_speed * 5;
+    alarm[0] = room_speed * 3;
 }
