@@ -5,6 +5,8 @@ if obj_sel_car.carro_atual <= 0{
 global.carro_selecionado = carro_atual
 }
 */
+scr_clique()
+
 with(obj_sel_car) {
     carro_atual -= 1;
     

@@ -5,6 +5,8 @@ if obj_sel_car.carro_atual >= array_length(obj_sel_car.lista_carros){
 global.carro_selecionado = carro_atual
 }
 */
+scr_clique()
+
 with(obj_sel_car) {
     carro_atual += 1;
     

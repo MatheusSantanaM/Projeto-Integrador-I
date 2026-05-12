@@ -22,5 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"som_fases.wav",
-  "volume":0.1,
+  "volume":0.5,
 }

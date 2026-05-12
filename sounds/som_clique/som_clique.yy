@@ -1,18 +1,18 @@
 {
   "$GMSound":"v2",
-  "%Name":"som_trilha_sonora",
+  "%Name":"som_clique",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "channelFormat":1,
+  "channelFormat":0,
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":24347.887,
+  "duration":0.13931973,
   "exportDir":"",
-  "name":"som_trilha_sonora",
+  "name":"som_clique",
   "parent":{
     "name":"Sons",
     "path":"folders/Sons.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"som_trilha_sonora.mp3",
-  "volume":0.5,
+  "soundFile":"som_clique.wav",
+  "volume":1.0,
 }
