@@ -1,8 +1,13 @@
 // Mexer direita e esquerda
-moveh = -keyboard_check(vk_left)+keyboard_check(vk_right)
+//moveh = -keyboard_check(vk_left)+keyboard_check(vk_right)
 //movev = -keyboard_check(vk_up)+keyboard_check(vk_down)
-hsp = moveh*spd
+//hsp = moveh*spd
 //vsp = movev*spd
+
+if (room == Room1) {
+    moveh = -keyboard_check(vk_left) + keyboard_check(vk_right);
+    hsp = moveh * spd;
+}
 
 
 // Não subir na calçada
