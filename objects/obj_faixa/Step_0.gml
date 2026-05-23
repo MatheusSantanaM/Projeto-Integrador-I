@@ -1,13 +1,5 @@
-if (keyboard_check(vk_up)) {
-    global.vel_mov += 0.01;
+if (place_meeting(x, y, obj_carro) && place_meeting(x, y, obj_pedestres)) {
+    with (obj_carro) {
+        instance_destroy();
+    }
 }
-else if (keyboard_check(vk_down)) {
-    global.vel_mov -= 0.01;
-}
-else {
-    global.vel_mov -= 0.01;
-}
-
-global.vel_mov = clamp(global.vel_mov, 0, 1);
-
-y += global.vel_mov * 10;

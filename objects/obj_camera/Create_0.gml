@@ -1,0 +1,2 @@
+// Definindo Alvo
+alvo = noone
