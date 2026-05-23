@@ -1,19 +1,25 @@
 // Mexer direita e esquerda
-moveh = -keyboard_check(vk_left)+keyboard_check(vk_right)
-hsp = moveh*spd
-movev = -keyboard_check(vk_up) + keyboard_check(vk_down);
-vsp = movev * spd;
-x += hsp
-y += vsp
+mover_horizontal = -keyboard_check(vk_left)+keyboard_check(vk_right)
+velocidade_horizontal = mover_horizontal*spd
+mover_vertical = -keyboard_check(vk_up) + keyboard_check(vk_down);
+velocidade_vertical = mover_vertical * spd;
+x += velocidade_horizontal
+y += velocidade_vertical
+
+// ?
+if (room == Room1) {
+    mover_horizontal = -keyboard_check(vk_left) + keyboard_check(vk_right);
+    velocidade_horizontal  = mover_horizontal * spd;
+}
 
 // Não subir na calçada
-if (place_meeting(x + hsp, y, obj_cenario_esq) || place_meeting(x + hsp, y, obj_cenario_dir)) 
+if (place_meeting(x + velocidade_horizontal , y, obj_cenario_esq) || place_meeting(x + velocidade_horizontal , y, obj_cenario_dir)) 
 {
-    while (!place_meeting(x + sign(hsp), y, obj_cenario_esq) && !place_meeting(x + sign(hsp), y, obj_cenario_dir)) 
+    while (!place_meeting(x + sign(velocidade_horizontal ), y, obj_cenario_esq) && !place_meeting(x + sign(velocidade_horizontal ), y, obj_cenario_dir)) 
     {
-        x += sign(hsp)
+        x += sign(velocidade_horizontal )
     }
-    hsp = 0
+    velocidade_horizontal = 0
 }
 
 // Passar só no sinal verde
