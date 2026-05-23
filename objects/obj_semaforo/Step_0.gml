@@ -1,13 +1,11 @@
-if (keyboard_check(vk_up)) {
-    global.vel_mov += 0.01;
-}
-else if (keyboard_check(vk_down)) {
-    global.vel_mov -= 0.01;
-}
-else {
-    global.vel_mov -= 0.01;
-}
+// Não passar no sinal vermelho
 
-global.vel_mov = clamp(global.vel_mov, 0, 1);
+var semaforo = instance_find(obj_semaforo, 0);
 
-y += global.vel_mov * 10;
+if (semaforo != noone) {
+    var frame = floor(semaforo.image_index);
+	with obj_carro{
+    if (place_meeting(x, y, obj_faixa) && (frame == 0 || frame == 1 || frame == 4)) {
+        instance_destroy();
+    }
+}}

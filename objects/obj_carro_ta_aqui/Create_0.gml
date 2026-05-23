@@ -1,0 +1,1 @@
+global.carro_ta_aqui = false

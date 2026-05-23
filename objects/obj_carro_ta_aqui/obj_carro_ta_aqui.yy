@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_faixa1",
+  "%Name":"obj_carro_ta_aqui",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_faixa1",
+  "name":"obj_carro_ta_aqui",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,12 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_faixa",
-    "path":"sprites/Spr_faixa/Spr_faixa.yy",
+    "name":"spr_ganhou",
+    "path":"sprites/spr_ganhou/spr_ganhou.yy",
   },
-  "spriteMaskId":{
-    "name":"Spr_faixa",
-    "path":"sprites/Spr_faixa/Spr_faixa.yy",
-  },
-  "visible":true,
+  "spriteMaskId":null,
+  "visible":false,
 }
