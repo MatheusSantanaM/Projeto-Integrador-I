@@ -1,10 +1,9 @@
-spd = 3
-hspd = 0
-vspd = 0
-hsp = 0
+spd_h = 2;
+spd_v = 0;
+aceleracao = 0.05;
+desaceleracao=0.5;
+vel_max = 6;
 
-entrou_faixa = false;
-contagem_iniciada = false;
 
 lista_carros = [spr_carro, spr_chao];
 sprite_index = lista_carros[global.carro_selecionado];
