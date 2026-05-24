@@ -1,1 +1,1 @@
-instance_destroy(other);
+global.vidas -=1
