@@ -10,5 +10,8 @@ global.vidas = 100
 global.dificuldade="medio"
 
 // Seletor de carros
-lista_carros = [spr_carro, spr_chao];
+lista_carros = [spr_carro, spr_chao, spr_carro_leon];
 sprite_index = lista_carros[global.carro_selecionado];
+
+//pra movimentação funcionar em todas as fases
+global.em_fase=false;
