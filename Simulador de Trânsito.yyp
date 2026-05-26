@@ -123,8 +123,6 @@
     {"id":{"name":"spr_placa_pare","path":"sprites/spr_placa_pare/spr_placa_pare.yy",},},
     {"id":{"name":"spr_preto","path":"sprites/spr_preto/spr_preto.yy",},},
     {"id":{"name":"spr_proibido_virar_esquerda","path":"sprites/spr_proibido_virar_esquerda/spr_proibido_virar_esquerda.yy",},},
-    {"id":{"name":"spr_result_left","path":"sprites/spr_result_left/spr_result_left.yy",},},
-    {"id":{"name":"spr_result_right","path":"sprites/spr_result_right/spr_result_right.yy",},},
     {"id":{"name":"spr_ruas","path":"sprites/spr_ruas/spr_ruas.yy",},},
     {"id":{"name":"spr_sel_car_dir","path":"sprites/spr_sel_car_dir/spr_sel_car_dir.yy",},},
     {"id":{"name":"spr_sel_car_esq","path":"sprites/spr_sel_car_esq/spr_sel_car_esq.yy",},},
