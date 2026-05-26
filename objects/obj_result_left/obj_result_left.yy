@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_result_left",
+    "path":"sprites/spr_result_left/spr_result_left.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

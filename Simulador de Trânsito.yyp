@@ -81,6 +81,7 @@
     {"id":{"name":"transition_scene","path":"rooms/transition_scene/transition_scene.yy",},},
     {"id":{"name":"scr_clique","path":"scripts/scr_clique/scr_clique.yy",},},
     {"id":{"name":"scr_controlar_msc","path":"scripts/scr_controlar_msc/scr_controlar_msc.yy",},},
+    {"id":{"name":"scr_fill_description","path":"scripts/scr_fill_description/scr_fill_description.yy",},},
     {"id":{"name":"scr_mov_pedestres","path":"scripts/scr_mov_pedestres/scr_mov_pedestres.yy",},},
     {"id":{"name":"scr_register_event","path":"scripts/scr_register_event/scr_register_event.yy",},},
     {"id":{"name":"scr_register_sucess","path":"scripts/scr_register_sucess/scr_register_sucess.yy",},},
