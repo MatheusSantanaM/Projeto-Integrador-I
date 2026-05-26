@@ -12,12 +12,14 @@
     {"name":"inst_4DAAB22F1","path":"rooms/seletor_fases/seletor_fases.yy",},
     {"name":"inst_1BFF7C9B","path":"rooms/seletor_fases/seletor_fases.yy",},
     {"name":"inst_49208873","path":"rooms/seletor_fases/seletor_fases.yy",},
+    {"name":"inst_488BDB6","path":"rooms/seletor_fases/seletor_fases.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"fase1","depth":-100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_1BFF7C9B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1BFF7C9B","objectId":{"name":"obj_fase1","path":"objects/obj_fase1/obj_fase1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":640.0,"y":352.0,},
         {"$GMRInstance":"v4","%Name":"inst_49208873","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_49208873","objectId":{"name":"obj_button_back","path":"objects/obj_button_back/obj_button_back.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":288.0,},
+        {"$GMRInstance":"v4","%Name":"inst_488BDB6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_488BDB6","objectId":{"name":"obj_fase2","path":"objects/obj_fase2/obj_fase2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":768.0,"y":352.0,},
       ],"layers":[],"name":"fase1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"seletor_fases","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_44100191","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_44100191","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":5.5,"spriteId":{"name":"selecao_fases","path":"sprites/selecao_fases/selecao_fases.yy",},"x":576.0,"y":256.0,},

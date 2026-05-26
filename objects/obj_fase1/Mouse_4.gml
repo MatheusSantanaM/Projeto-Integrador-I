@@ -1,2 +1,2 @@
 scr_clique()
-room_goto(fase2)
+room_goto(fase1)

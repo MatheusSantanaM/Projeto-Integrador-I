@@ -6,7 +6,7 @@ desaceleracao=0.5;
 vel_max = 6;
 
 // Vidas e difculdade
-global.vidas = 100
+global.vidas = 1
 global.dificuldade="medio"
 
 // Seletor de carros
