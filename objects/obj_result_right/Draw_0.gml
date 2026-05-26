@@ -54,3 +54,17 @@ if (array_length(global.infraction_log) == 0) {
     draw_set_halign(fa_center);
     draw_text(1024, 400, "Nenhuma infracao registrada.");
 }
+
+if (array_length(global.infraction_log) == 0) {
+    var _btn_y = 700;
+    var _btn_x = 1051;
+    var _btn_w = 295;
+    var _btn_h = 32;
+
+    draw_set_color(make_color_rgb(80, 140, 40));
+    draw_roundrect_ext(_btn_x, _btn_y, _btn_x + _btn_w, _btn_y + _btn_h, 6, 6, false);
+    draw_set_color(c_white);
+    draw_set_font(fnt_minecraftia_12);
+    draw_set_halign(fa_center);
+    draw_text(_btn_x + _btn_w / 2, _btn_y + 10, "Proxima Fase");
+}

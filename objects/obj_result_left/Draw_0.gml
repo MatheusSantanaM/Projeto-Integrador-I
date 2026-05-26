@@ -54,3 +54,22 @@ if (array_length(global.success_log) == 0) {
     draw_set_halign(fa_center);
     draw_text(341, 400, "Nenhum acerto registrado.");
 }
+
+var _btn_y = 700;
+var _btn_x = 32;
+var _btn_w = 295;
+var _btn_h = 32;
+
+// Botão Menu
+draw_set_color(make_color_rgb(220, 218, 210));
+draw_roundrect_ext(_btn_x, _btn_y, _btn_x + _btn_w / 2 - 4, _btn_y + _btn_h, 6, 6, false);
+draw_set_color(make_color_rgb(95, 94, 90));
+draw_set_font(fnt_minecraftia_12);
+draw_set_halign(fa_center);
+draw_text(_btn_x + _btn_w / 4 - 2, _btn_y + 10, "Menu");
+
+// Botão Reiniciar
+draw_set_color(make_color_rgb(220, 218, 210));
+draw_roundrect_ext(_btn_x + _btn_w / 2 + 4, _btn_y, _btn_x + _btn_w, _btn_y + _btn_h, 6, 6, false);
+draw_set_color(make_color_rgb(95, 94, 90));
+draw_text(_btn_x + _btn_w * 3 / 4 + 2, _btn_y + 10, "Reiniciar");
