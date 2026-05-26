@@ -1,0 +1,8 @@
+{
+  "infracoes": {
+    "sinal_vermelho": {
+      "title": "Avanço de Sinal Vermelho",
+      "description": "Você avançou o sinal vermelho. Isso é uma infração gravíssima e pode causar acidentes sérios."
+        }
+    }
+}
