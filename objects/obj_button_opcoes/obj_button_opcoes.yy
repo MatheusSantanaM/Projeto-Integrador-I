@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_button_opcoes",
-    "path":"sprites/spr_button_opcoes/spr_button_opcoes.yy",
+    "name":"spr_opcoes",
+    "path":"sprites/spr_opcoes/spr_opcoes.yy",
   },
   "spriteMaskId":null,
   "visible":true,

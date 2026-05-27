@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_button_jgr",
-    "path":"sprites/spr_button_jgr/spr_button_jgr.yy",
+    "name":"spr_jogar",
+    "path":"sprites/spr_jogar/spr_jogar.yy",
   },
   "spriteMaskId":null,
   "visible":true,

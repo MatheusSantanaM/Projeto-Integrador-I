@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_button_sair",
-    "path":"sprites/spr_button_sair/spr_button_sair.yy",
+    "name":"spr_bt_sair",
+    "path":"sprites/spr_bt_sair/spr_bt_sair.yy",
   },
   "spriteMaskId":null,
   "visible":true,

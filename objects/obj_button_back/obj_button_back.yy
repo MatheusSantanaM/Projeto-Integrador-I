@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_button_back",
-    "path":"sprites/spr_button_back/spr_button_back.yy",
+    "name":"spr_bt_voltar",
+    "path":"sprites/spr_bt_voltar/spr_bt_voltar.yy",
   },
   "spriteMaskId":null,
   "visible":true,
