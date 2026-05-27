@@ -105,6 +105,8 @@
     {"id":{"name":"spr_button_sobre","path":"sprites/spr_button_sobre/spr_button_sobre.yy",},},
     {"id":{"name":"spr_camslow","path":"sprites/spr_camslow/spr_camslow.yy",},},
     {"id":{"name":"spr_carro_leon","path":"sprites/spr_carro_leon/spr_carro_leon.yy",},},
+    {"id":{"name":"spr_carro_red","path":"sprites/spr_carro_red/spr_carro_red.yy",},},
+    {"id":{"name":"spr_carro_verde","path":"sprites/spr_carro_verde/spr_carro_verde.yy",},},
     {"id":{"name":"spr_carro","path":"sprites/spr_carro/spr_carro.yy",},},
     {"id":{"name":"spr_cenario_dir","path":"sprites/spr_cenario_dir/spr_cenario_dir.yy",},},
     {"id":{"name":"spr_cenario_esq","path":"sprites/spr_cenario_esq/spr_cenario_esq.yy",},},
