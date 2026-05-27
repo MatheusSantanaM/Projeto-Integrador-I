@@ -1,27 +1,27 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_carro_leon",
+  "%Name":"spr_opcoes",
   "bboxMode":0,
-  "bbox_bottom":57,
-  "bbox_left":29,
-  "bbox_right":59,
-  "bbox_top":6,
+  "bbox_bottom":23,
+  "bbox_left":2,
+  "bbox_right":45,
+  "bbox_top":4,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"1e4ad306-727e-49d8-8d30-8f9dd2a24273","name":"1e4ad306-727e-49d8-8d30-8f9dd2a24273","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2f4f5a8c-abcf-42a8-b0dc-f9003a4d6820","name":"2f4f5a8c-abcf-42a8-b0dc-f9003a4d6820","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"2b66af84-ac80-4ef0-b316-7538d690c3e6","blendMode":0,"displayName":"default","isLocked":false,"name":"2b66af84-ac80-4ef0-b316-7538d690c3e6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"dd50c480-2dd6-473a-a630-486be3e36871","blendMode":0,"displayName":"default","isLocked":false,"name":"dd50c480-2dd6-473a-a630-486be3e36871","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_carro_leon",
+  "name":"spr_opcoes",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_carro_leon",
+    "%Name":"spr_opcoes",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_carro_leon",
+    "name":"spr_opcoes",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1e4ad306-727e-49d8-8d30-8f9dd2a24273","path":"sprites/spr_carro_leon/spr_carro_leon.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"32889be1-85ba-466e-bba5-a6c9860ac8dd","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2f4f5a8c-abcf-42a8-b0dc-f9003a4d6820","path":"sprites/spr_opcoes/spr_opcoes.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6070c9b1-0aba-439f-81a2-8bf43da28000","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":87,
+  "width":54,
 }
