@@ -6,3 +6,4 @@ if (global.quant_infracoes >= global.max_infracoes) {
 } else if (!global.cumpriu_objetivo){
 	room_goto(room_resultados)
 }
+
