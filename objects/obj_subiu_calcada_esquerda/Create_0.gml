@@ -1,0 +1,1 @@
+infraction_registered = false;

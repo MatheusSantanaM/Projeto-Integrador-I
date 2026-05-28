@@ -3,6 +3,29 @@
     "sinal_vermelho": {
       "title": "Avanço de Sinal Vermelho",
       "description": "Você avançou o sinal vermelho. Isso é uma infração gravíssima e pode causar acidentes sérios."
-        }
+    },
+    "subiu_na_calcada": {
+      "title": "Subiu na calçada",
+      "description": "Você subiu na calçada. Isso é uma infração gravíssima e pode causar acidentes sérios."
+    },
+    "contra_mao": {
+      "title": "Entrou na contra-mão",
+      "description": "Você entrou na contra-mão. Isso é uma infração gravíssima e pode causar acidentes sérios."
+    },
+    "atropelou_pedestres": {
+      "title": "Atropelou os pedestres",
+      "description": "Você atrolou os pedestres e causou um acidente. Tente a fase novamente!."
+    },
+    "entrou_local_proibido": {
+      "title": "Entrada em local proibido",
+      "description": "Você virou a direita em um cruzamento que estava sinalizado para não virar."
+    },
+    "nao_esperou_pedestres_passarem": {
+      "title": "Não esperou pedestres passarem",
+      "description": "Você não parou na faixa para os pedestres passarem. Essa parada é obrigatória"
     }
+
+
+  
+}
 }

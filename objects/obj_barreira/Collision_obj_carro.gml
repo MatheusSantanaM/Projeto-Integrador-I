@@ -1,1 +1,0 @@
-global.vidas -=1

@@ -1,1 +1,1 @@
-room_goto(ganhou)
+room_goto(room_resultados);

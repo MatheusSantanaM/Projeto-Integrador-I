@@ -1,6 +1,3 @@
-// Fase 1 - Passar a faixa quando o sinal estiver vermelho
-
-
 // Fase 2 - Passar a faixa quando o carro parar 
 if (room=fase2){
 	if (global.contando){
@@ -12,3 +9,13 @@ if (room=fase2){
 	}
 }
 
+// Carro bate nele
+if (!infraction_registered) {
+    with (obj_carro) {
+        if (place_meeting(x, y, obj_pedestres)) {
+            scr_register_event("atropelou_pedestres", {});
+            other.infraction_registered = true;
+			room_goto(room_resultados)
+		}
+    }
+}

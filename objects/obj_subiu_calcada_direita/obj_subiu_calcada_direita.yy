@@ -1,12 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"obj_pedestres",
+  "%Name":"obj_subiu_calcada_direita",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_carro","path":"objects/obj_carro/obj_carro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_pedestres",
+  "name":"obj_subiu_calcada_direita",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,9 +33,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_pedestres",
-    "path":"sprites/spr_pedestres/spr_pedestres.yy",
+    "name":"spr_barreira",
+    "path":"sprites/spr_barreira/spr_barreira.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

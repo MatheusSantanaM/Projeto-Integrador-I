@@ -1,9 +1,9 @@
 if (global.em_fase){
-	// Mexer direita e esquerda
+// Mexer direita e esquerda
 	mover_horizontal = -keyboard_check(vk_left) + keyboard_check(vk_right);
 	velocidade_horizontal = mover_horizontal * spd_h;
 
-	// Mexer cima e baixo
+// Mexer cima e baixo
 	mover_vertical = -keyboard_check(vk_up) + keyboard_check(vk_down);
 
 	if (mover_vertical != 0) {

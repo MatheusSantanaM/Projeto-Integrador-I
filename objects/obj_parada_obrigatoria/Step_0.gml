@@ -6,9 +6,13 @@ if (car != noone) {
         alarm[0] = game_get_speed(gamespeed_fps) * 5;
     }
 } else {
+	if (!infraction_registered) {
     if (global.contando && !liberado) {
         with (obj_carro) {
-            instance_destroy();
+            scr_register_event("nao_esperou_pedestres_passarem", {});
+            other.infraction_registered = true;
+			global.quant_infracoes +=1
         }
     }
+}
 }
