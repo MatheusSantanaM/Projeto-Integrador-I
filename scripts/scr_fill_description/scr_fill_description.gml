@@ -10,3 +10,4 @@ function scr_fill_description(template, data) {
     
     return _result;
 }
+// script inutil ate então, caso usemos alguma variavel como limite de velocidade ela será util, ex: "você estava em {kilometros}por hr"
