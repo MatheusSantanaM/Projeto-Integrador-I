@@ -3,6 +3,15 @@
     "sinal_verde": {
       "title": "Aguardou o Sinal Verde",
       "description": "Você aguardou o semáforo exibir a luz verde, muito bem!"
-        }
+        },
+    "parada_obrigatoria": {
+      "title": "Parou na faixa para os pedestres passarem",
+      "description": "Você parou na faixa e esperou os pedestres passarem, muito bem!"
+        },
+    "curva_proibida": {
+      "title": "Obedeceu a placa de proibido virar a direita",
+      "description": "Você obedeceu a placa e não fez a manobra a direita, muito bem!"
+        },
+
     }
 }

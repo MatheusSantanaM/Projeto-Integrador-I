@@ -9,6 +9,7 @@
     //    scr_register_event("sinal_vermelho",{});
     //}
 //}}
+
 if (!infraction_registered) {
     var semaforo = instance_find(obj_semaforo, 0);
     if (semaforo != noone) {
@@ -16,8 +17,9 @@ if (!infraction_registered) {
         with (obj_carro) {
             if (place_meeting(x, y, obj_faixa) && (frame == 0 || frame == 1 || frame == 4)) {
                 scr_register_event("sinal_vermelho", {});
+				scr_register_event("nao_cumpriu_objetivo", {});
                 other.infraction_registered = true;
-				global.quant_infracoes +=1;
+				global.pior_infracao = true;
             }
         }
     }

@@ -15,7 +15,7 @@ if (!infraction_registered) {
         if (place_meeting(x, y, obj_pedestres)) {
             scr_register_event("atropelou_pedestres", {});
             other.infraction_registered = true;
-			room_goto(room_resultados)
+			global.pior_infracao = true;
 		}
     }
 }

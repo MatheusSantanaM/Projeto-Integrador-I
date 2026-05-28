@@ -23,9 +23,10 @@
     "nao_esperou_pedestres_passarem": {
       "title": "Não esperou pedestres passarem",
       "description": "Você não parou na faixa para os pedestres passarem. Essa parada é obrigatória"
-    }
-
-
-  
+    },
+    "nao_cumpriu_objetivo": {
+      "title": "Não cumpriu objetivo da fase",
+      "description": "Você não cumpriu o objetivo da fase, tente novamente!"
+        }
 }
 }
