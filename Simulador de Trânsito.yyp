@@ -120,7 +120,6 @@
     {"id":{"name":"spr_carro","path":"sprites/spr_carro/spr_carro.yy",},},
     {"id":{"name":"spr_cenario_dir","path":"sprites/spr_cenario_dir/spr_cenario_dir.yy",},},
     {"id":{"name":"spr_cenario_esq","path":"sprites/spr_cenario_esq/spr_cenario_esq.yy",},},
-    {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},
     {"id":{"name":"spr_chegada","path":"sprites/spr_chegada/spr_chegada.yy",},},
     {"id":{"name":"spr_creditos","path":"sprites/spr_creditos/spr_creditos.yy",},},
     {"id":{"name":"spr_faixa_1","path":"sprites/spr_faixa_1/spr_faixa_1.yy",},},

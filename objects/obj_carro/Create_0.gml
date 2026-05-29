@@ -12,7 +12,7 @@ global.pior_infracao = false
 global.cumpriu_objetivo = true
 
 // Seletor de carros
-lista_carros = [spr_carro, spr_chao, spr_carro_leon];
+lista_carros = [spr_carro, spr_carro_leon, spr_carro_red, spr_carro_verde];
 sprite_index = lista_carros[global.carro_selecionado];
 
 //pra movimentação funcionar em todas as fases
