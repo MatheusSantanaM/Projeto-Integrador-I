@@ -7,11 +7,9 @@ vel_max = 7;
 
 // Vidas e difculdade
 global.quant_infracoes = 0
-global.max_infracoes = 3
+global.max_infracoes = 2
 global.pior_infracao = false
 global.cumpriu_objetivo = true
-
-
 
 // Seletor de carros
 lista_carros = [spr_carro, spr_chao, spr_carro_leon];

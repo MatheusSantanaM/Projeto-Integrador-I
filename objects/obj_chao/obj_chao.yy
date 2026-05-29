@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_chao",
-    "path":"sprites/spr_chao/spr_chao.yy",
+    "name":"spr_carro_red",
+    "path":"sprites/spr_carro_red/spr_carro_red.yy",
   },
   "spriteMaskId":null,
   "visible":true,

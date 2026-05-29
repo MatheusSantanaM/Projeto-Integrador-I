@@ -1,2 +1,2 @@
 scr_clique()
-room_goto(menu_configs)
+room_goto(menu_config)
