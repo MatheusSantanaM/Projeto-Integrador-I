@@ -36,5 +36,5 @@
     "path":"sprites/spr_ganhou/spr_ganhou.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

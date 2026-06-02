@@ -27,6 +27,11 @@
     "nao_cumpriu_objetivo": {
       "title": "Não cumpriu objetivo da fase",
       "description": "Você não cumpriu o objetivo da fase, tente novamente!"
+        },
+    "parada_obrigatoria": {
+      "title": "Não parou em local de parada obrigatória",
+      "description": "A parada no cruzamento era obrigatória e você não parou!"
         }
+
 }
 }
