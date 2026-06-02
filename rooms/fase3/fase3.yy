@@ -33,10 +33,10 @@
     {"name":"inst_7431CA93","path":"rooms/fase3/fase3.yy",},
     {"name":"inst_557E52D4","path":"rooms/fase3/fase3.yy",},
     {"name":"inst_207498F3","path":"rooms/fase3/fase3.yy",},
-    {"name":"inst_67F5CB5A","path":"rooms/fase3/fase3.yy",},
     {"name":"inst_452278C5","path":"rooms/fase3/fase3.yy",},
     {"name":"inst_5296138C","path":"rooms/fase3/fase3.yy",},
-    {"name":"inst_77409639","path":"rooms/fase3/fase3.yy",},
+    {"name":"inst_7409B3ED","path":"rooms/fase3/fase3.yy",},
+    {"name":"inst_16B0D359","path":"rooms/fase3/fase3.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -53,8 +53,8 @@
         {"$GMRInstance":"v4","%Name":"inst_452278C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_452278C5","objectId":{"name":"obj_nivel_dificuldades","path":"objects/obj_nivel_dificuldades/obj_nivel_dificuldades.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":1152.0,"y":5728.0,},
       ],"layers":[],"name":"obj_dificuldade","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"parada_obrigatoria","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_67F5CB5A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_67F5CB5A","objectId":{"name":"obj_parada_obrigatoria","path":"objects/obj_parada_obrigatoria/obj_parada_obrigatoria.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":3.0,"x":672.0,"y":5536.0,},
-        {"$GMRInstance":"v4","%Name":"inst_77409639","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_77409639","objectId":{"name":"obj_parada_obrigatoria","path":"objects/obj_parada_obrigatoria/obj_parada_obrigatoria.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":3.0,"x":672.0,"y":2912.0,},
+        {"$GMRInstance":"v4","%Name":"inst_7409B3ED","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7409B3ED","objectId":{"name":"obj_parada_obr","path":"objects/obj_parada_obr/obj_parada_obr.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.5,"scaleY":2.5,"x":704.0,"y":5536.0,},
+        {"$GMRInstance":"v4","%Name":"inst_16B0D359","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_16B0D359","objectId":{"name":"obj_parada_obr","path":"objects/obj_parada_obr/obj_parada_obr.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.5,"scaleY":2.0,"x":704.0,"y":2848.0,},
       ],"layers":[],"name":"parada_obrigatoria","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"spr_faixa","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_783272FD","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_783272FD","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":89.87055,"scaleX":6.0,"scaleY":7.0,"spriteId":{"name":"spr_faixa_unica","path":"sprites/spr_faixa_unica/spr_faixa_unica.yy",},"x":703.92816,"y":5631.5664,},

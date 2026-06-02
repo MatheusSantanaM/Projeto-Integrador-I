@@ -1,12 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_pedestres",
+  "%Name":"obj_parada_obrigatoria_fase1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_pedestres",
+  "name":"obj_parada_obrigatoria_fase1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_pedestre",
-    "path":"sprites/spr_pedestre/spr_pedestre.yy",
+    "name":"spr_ganhou",
+    "path":"sprites/spr_ganhou/spr_ganhou.yy",
   },
   "spriteMaskId":null,
   "visible":true,

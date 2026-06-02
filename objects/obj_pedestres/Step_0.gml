@@ -1,6 +1,9 @@
 // Fase 2 - Passar a faixa quando o carro parar 
 if (room=fase2){
 	if (global.contando){
+	movendo_faixa = true
+	}
+	if (movendo_faixa){
 	x += velocidade
 		if (x=384){
 			velocidade = 0
