@@ -2,6 +2,7 @@ global.infraction_log = [];
 global.success_log    = [];
 global.infraction_defs = undefined;
 global.success_defs    = undefined;
+global.jogo_pausado = false;
 
 // Carrega infrações
 var _buf = buffer_load("infracoes.json");

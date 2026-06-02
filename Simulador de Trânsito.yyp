@@ -29,6 +29,7 @@
   },
   "name":"Simulador de Trânsito",
   "resources":[
+    {"id":{"name":"obj_agrupa_cenario","path":"objects/obj_agrupa_cenario/obj_agrupa_cenario.yy",},},
     {"id":{"name":"obj_background","path":"objects/obj_background/obj_background.yy",},},
     {"id":{"name":"obj_button_back","path":"objects/obj_button_back/obj_button_back.yy",},},
     {"id":{"name":"obj_button_dificil","path":"objects/obj_button_dificil/obj_button_dificil.yy",},},
@@ -59,6 +60,7 @@
     {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},},
     {"id":{"name":"obj_ganhou","path":"objects/obj_ganhou/obj_ganhou.yy",},},
     {"id":{"name":"obj_icon_audio","path":"objects/obj_icon_audio/obj_icon_audio.yy",},},
+    {"id":{"name":"obj_menu_pause","path":"objects/obj_menu_pause/obj_menu_pause.yy",},},
     {"id":{"name":"obj_nivel_dificuldades","path":"objects/obj_nivel_dificuldades/obj_nivel_dificuldades.yy",},},
     {"id":{"name":"obj_parada_obr","path":"objects/obj_parada_obr/obj_parada_obr.yy",},},
     {"id":{"name":"obj_parada_obrigatoria_fase1","path":"objects/obj_parada_obrigatoria_fase1/obj_parada_obrigatoria_fase1.yy",},},

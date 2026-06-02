@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_faixa",
+  "%Name":"obj_agrupa_cenario",
   "eventList":[],
   "managed":true,
-  "name":"obj_faixa",
+  "name":"obj_agrupa_cenario",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":{
-    "name":"obj_agrupa_cenario",
-    "path":"objects/obj_agrupa_cenario/obj_agrupa_cenario.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_faixa_1",
-    "path":"sprites/spr_faixa_1/spr_faixa_1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
