@@ -1,1 +1,1 @@
-room_goto(fase3)
+room_goto(fase1)
