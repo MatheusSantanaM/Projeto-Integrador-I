@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fase2",
-    "path":"sprites/spr_fase2/spr_fase2.yy",
+    "name":"spr_fase3",
+    "path":"sprites/spr_fase3/spr_fase3.yy",
   },
   "spriteMaskId":null,
   "visible":true,

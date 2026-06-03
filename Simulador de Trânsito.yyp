@@ -40,6 +40,7 @@
     {"id":{"name":"obj_button_opcoes","path":"objects/obj_button_opcoes/obj_button_opcoes.yy",},},
     {"id":{"name":"obj_button_sair","path":"objects/obj_button_sair/obj_button_sair.yy",},},
     {"id":{"name":"obj_button_sobre","path":"objects/obj_button_sobre/obj_button_sobre.yy",},},
+    {"id":{"name":"obj_calcada3","path":"objects/obj_calcada3/obj_calcada3.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_camslow","path":"objects/obj_camslow/obj_camslow.yy",},},
     {"id":{"name":"obj_carro_ta_aqui","path":"objects/obj_carro_ta_aqui/obj_carro_ta_aqui.yy",},},
