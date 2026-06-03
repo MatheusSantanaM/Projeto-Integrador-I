@@ -1,1 +1,1 @@
-global.carro_selecionado = 0
+//global.carro_selecionado = 0

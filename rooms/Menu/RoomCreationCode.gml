@@ -1,0 +1,1 @@
+//global.carro_selecionado = 0;
