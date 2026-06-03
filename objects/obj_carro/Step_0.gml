@@ -1,3 +1,4 @@
+if (global.jogo_pausado) exit;
 if (global.em_fase){
 // Mexer direita e esquerda
 	mover_horizontal = -keyboard_check(vk_left) + keyboard_check(vk_right);

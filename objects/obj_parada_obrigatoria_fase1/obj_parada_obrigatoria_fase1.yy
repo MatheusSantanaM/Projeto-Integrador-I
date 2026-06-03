@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_parada_obrigatoria",
+  "%Name":"obj_parada_obrigatoria_fase1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_parada_obrigatoria",
+  "name":"obj_parada_obrigatoria_fase1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -36,5 +36,5 @@
     "path":"sprites/spr_ganhou/spr_ganhou.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

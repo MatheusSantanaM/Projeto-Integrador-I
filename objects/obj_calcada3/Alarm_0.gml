@@ -1,0 +1,1 @@
+global.pode_tomar_dano = true;

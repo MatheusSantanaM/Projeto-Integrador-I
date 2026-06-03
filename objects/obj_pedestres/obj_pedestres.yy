@@ -12,7 +12,10 @@
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_agrupa_cenario",
+    "path":"objects/obj_agrupa_cenario/obj_agrupa_cenario.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_pedestres",
-    "path":"sprites/spr_pedestres/spr_pedestres.yy",
+    "name":"spr_pedestre",
+    "path":"sprites/spr_pedestre/spr_pedestre.yy",
   },
   "spriteMaskId":null,
   "visible":true,
