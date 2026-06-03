@@ -3,7 +3,7 @@ var car = instance_place(x, y, obj_carro);
 if (car != noone) {
     if (!contando && !liberado) {
         contando = true;
-        alarm[0] = game_get_speed(gamespeed_fps) * 5;
+        alarm[0] = game_get_speed(gamespeed_fps) * 3;
     }
 } else {
 	if (!infraction_registered) {
