@@ -31,7 +31,13 @@
     "parada_obrigatoria": {
       "title": "Não parou em local de parada obrigatória",
       "description": "A parada no cruzamento era obrigatória e você não parou!"
+        },     
+    
+    "passou_na_faixa_junto_com_pedestres": {
+      "title": "Passou na faixa junto com os pedestres",
+      "description": "Você deve esperar os pedestres completarem completamente a travessia da faixa para que você possa passar"
         }
+
 
 }
 }

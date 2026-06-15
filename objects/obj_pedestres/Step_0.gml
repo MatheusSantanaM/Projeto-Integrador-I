@@ -2,7 +2,9 @@
 if (floor(obj_semaforo.image_index) == 0 || floor(obj_semaforo.image_index) == 1) {
         semaforo_vermelho = true;
     }
-
+if (floor(obj_semaforo.image_index) == 2 || floor(obj_semaforo.image_index) == 3 || floor(obj_semaforo.image_index) == 3=4) {
+        semaforo_vermelho = false;
+    }
 
 if (global.carro_ta_aqui && semaforo_vermelho){
 	movendo_faixa = true
