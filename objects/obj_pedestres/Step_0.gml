@@ -1,4 +1,6 @@
 // condições para o pedestre mexer na fase 1
+
+if (instance_exists(obj_semaforo)){
 if (floor(obj_semaforo.image_index) == 0 || floor(obj_semaforo.image_index) == 1) {
         semaforo_vermelho = true;
     }
@@ -9,6 +11,7 @@ if (floor(obj_semaforo.image_index) == 2 || floor(obj_semaforo.image_index) == 3
 if (global.carro_ta_aqui && semaforo_vermelho){
 	movendo_faixa = true
 	}
+}
 
 // Fase 1
 if (room=fase1){

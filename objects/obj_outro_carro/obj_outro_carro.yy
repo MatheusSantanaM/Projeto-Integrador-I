@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_parada_obrigatoria_fase1",
+  "%Name":"obj_outro_carro",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_carro","path":"objects/obj_carro/obj_carro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_parada_obrigatoria_fase1",
+  "name":"obj_outro_carro",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -32,9 +32,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ganhou",
-    "path":"sprites/spr_ganhou/spr_ganhou.yy",
+    "name":"spr_carro_red",
+    "path":"sprites/spr_carro_red/spr_carro_red.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

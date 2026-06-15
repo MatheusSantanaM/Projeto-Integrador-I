@@ -66,6 +66,7 @@
     {"id":{"name":"obj_icon_audio","path":"objects/obj_icon_audio/obj_icon_audio.yy",},},
     {"id":{"name":"obj_menu_pause","path":"objects/obj_menu_pause/obj_menu_pause.yy",},},
     {"id":{"name":"obj_nivel_dificuldades","path":"objects/obj_nivel_dificuldades/obj_nivel_dificuldades.yy",},},
+    {"id":{"name":"obj_outro_carro","path":"objects/obj_outro_carro/obj_outro_carro.yy",},},
     {"id":{"name":"obj_parabens","path":"objects/obj_parabens/obj_parabens.yy",},},
     {"id":{"name":"obj_parada_obr","path":"objects/obj_parada_obr/obj_parada_obr.yy",},},
     {"id":{"name":"obj_parada_obrigatoria_fase1","path":"objects/obj_parada_obrigatoria_fase1/obj_parada_obrigatoria_fase1.yy",},},
