@@ -1,21 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_chegada",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_parabens",
+  "eventList":[],
   "managed":true,
-  "name":"obj_chegada",
+  "name":"obj_parabens",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":{
-    "name":"obj_agrupa_cenario",
-    "path":"objects/obj_agrupa_cenario/obj_agrupa_cenario.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -34,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_chegada",
-    "path":"sprites/spr_chegada/spr_chegada.yy",
+    "name":"spr_parabens",
+    "path":"sprites/spr_parabens/spr_parabens.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

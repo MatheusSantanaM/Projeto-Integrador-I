@@ -7,8 +7,9 @@ y = lerp(y,alvo.y,0.1)
 // Posicionando camera
 var _width_camera = camera_get_view_width(view_camera[0])
 var _height_camera = camera_get_view_height(view_camera[0])
+
 // Colocando a camera no meio mas um pouco abaixo do y
-var recuo_y = 300
+var recuo_y = 200
 var _cam_x = x - _width_camera / 2 
 var _cam_y = y - _height_camera / 2 - recuo_y
 
