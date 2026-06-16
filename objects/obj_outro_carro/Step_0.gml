@@ -1,3 +1,4 @@
+if (global.jogo_pausado) exit;
 if (!chegou_ja){
 with (obj_pro_carro_andar){
 	if (place_meeting(x,y,obj_carro)){

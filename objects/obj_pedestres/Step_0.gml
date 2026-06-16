@@ -1,5 +1,5 @@
 // condições para o pedestre mexer na fase 1
-
+if (global.jogo_pausado) exit;
 if (instance_exists(obj_semaforo)){
 if (floor(obj_semaforo.image_index) == 0 || floor(obj_semaforo.image_index) == 1) {
         semaforo_vermelho = true;

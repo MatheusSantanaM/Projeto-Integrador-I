@@ -1,0 +1,1 @@
+if (global.jogo_pausado) exit;
