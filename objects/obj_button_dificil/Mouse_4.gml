@@ -10,3 +10,7 @@ image_index = 1
 
 // som de clique
 scr_clique()
+
+
+
+show_debug_message(global.max_infracoes);

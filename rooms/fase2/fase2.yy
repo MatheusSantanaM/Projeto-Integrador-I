@@ -29,7 +29,6 @@
     {"name":"inst_6984566F","path":"rooms/fase2/fase2.yy",},
     {"name":"inst_40C4E09B","path":"rooms/fase2/fase2.yy",},
     {"name":"inst_B1CB44B","path":"rooms/fase2/fase2.yy",},
-    {"name":"inst_4D69318B","path":"rooms/fase2/fase2.yy",},
     {"name":"inst_209185","path":"rooms/fase2/fase2.yy",},
   ],
   "isDnd":false,
@@ -42,7 +41,6 @@
         {"$GMRInstance":"v4","%Name":"inst_6984566F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6984566F","objectId":{"name":"obj_subiu_calcada_direita","path":"objects/obj_subiu_calcada_direita/obj_subiu_calcada_direita.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":138.0,"x":928.0,"y":576.0,},
         {"$GMRInstance":"v4","%Name":"inst_40C4E09B","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_40C4E09B","objectId":{"name":"obj_chegada","path":"objects/obj_chegada/obj_chegada.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":12.5,"scaleY":1.0,"x":288.0,"y":416.0,},
         {"$GMRInstance":"v4","%Name":"inst_B1CB44B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_B1CB44B","objectId":{"name":"obj_entrada_proibida","path":"objects/obj_entrada_proibida/obj_entrada_proibida.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":17.0,"scaleY":13.0,"x":928.0,"y":2944.0,},
-        {"$GMRInstance":"v4","%Name":"inst_4D69318B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4D69318B","objectId":{"name":"obj_nivel_dificuldades","path":"objects/obj_nivel_dificuldades/obj_nivel_dificuldades.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":1248.0,"y":3680.0,},
         {"$GMRInstance":"v4","%Name":"inst_209185","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_209185","objectId":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":96.0,},
       ],"layers":[],"name":"carro","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"parabens","assets":[
