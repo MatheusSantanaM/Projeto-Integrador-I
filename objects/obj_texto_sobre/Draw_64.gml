@@ -13,26 +13,28 @@ var gx = x - cam_x;
 var gy = y - cam_y;
 
 var margem_x = 65;
-var margem_y = 30; // maior para não sobrepor o botão X
+var margem_y = 30;
 var separacao_linhas = string_height("A");
 
 draw_sprite(sprite_index, image_index, gx, gy);
 
 gpu_set_scissor(
     gx + margem_x,
-    gy + margem_y,
+    gy + offset_texto_y,
     sprite_width - (margem_x * 2),
-    sprite_height - (margem_y * 2)
+    sprite_height - (margem_y + offset_texto_y)
 );
 
 draw_text_ext(
     gx + margem_x,
-    gy + margem_y - scroll_y,
+    gy + offset_texto_y - scroll_y,
     texto,
     separacao_linhas,
     sprite_width - (margem_x * 2)
 );
-
+show_debug_message("gy=" + string(gy) + " scissor_y=" + string(gy + offset_texto_y) + " altura=" + string(sprite_height - margem_y - offset_texto_y));
+show_debug_message("gui_h=" + string(display_get_gui_height()));
+show_debug_message("sprite_height=" + string(sprite_height));
 draw_set_colour(cor_anterior);
 draw_set_font(font_anterior);
 gpu_set_scissor(0, 0, display_get_gui_width(), display_get_gui_height());

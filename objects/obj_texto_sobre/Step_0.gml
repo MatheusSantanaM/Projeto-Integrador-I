@@ -3,7 +3,7 @@ draw_set_font(fonte_pixel);
 var margem_x = 65;
 var margem_y = 30;
 var largura_max = sprite_width - (margem_x * 2);
-var area_visivel = sprite_height - (margem_y * 2);
+var area_visivel = sprite_height - offset_texto_y - margem_y;
 var separacao_linhas = string_height("A");
 
 var texto_altura_total = string_height_ext(texto_sobre, separacao_linhas, largura_max);
