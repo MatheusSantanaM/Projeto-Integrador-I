@@ -10,8 +10,35 @@
         },
     "curva_proibida": {
       "title": "Obedeceu a placa de proibido virar a direita",
-      "description": "Você obedeceu a placa e não fez a manobra a direita, muito bem!"
+      "description": "Você seguiu a instrução da placa e não fez a manobra à direita, muito bem!"
         },
-
+    "nao_subiu_na_calcada": {
+      "title": "Não Subiu na Calçada",
+      "description": "Você manteve o veículo na via, preservando a segurança dos pedestres na calçada."
+        },
+    "nao_atropelou_pedestres": {
+      "title": "Não Atropelou Pedestres",
+      "description": "Você conduziu com atenção e não atingiu nenhum pedestre, muito bem!"
+        },
+    "respeitou_local_proibido": {
+      "title": "Respeitou Sinalização de Conversão",
+      "description": "Você não realizou a conversão proibida no cruzamento sinalizado, muito bem!"
+        },
+    "nao_bateu_num_carro": {
+      "title": "Não Colidiu com Outros Veículos",
+      "description": "Você conduziu com segurança e evitou colisões com outros veículos, muito bem!"
+        },
+    "respeitou_faixa_de_pedestre": {
+      "title": "Respeitou a Faixa de Pedestre",
+      "description": "Você aguardou os pedestres completarem a travessia antes de prosseguir."  
+        },
+    "respeitou_parada_obrigatoria": {
+      "title": "Respeitou a Parada Obrigatória",
+      "description": "Você realizou a parada obrigatória corretamente no cruzamento."
+    },  
+    "cumpriu_objetivo": {
+      "title": "Cumpriu o Objetivo da Fase",
+      "description": "Você atingiu o objetivo da fase com sucesso!" 
+        }
     }
 }
