@@ -16,6 +16,7 @@ draw_set_color(make_color_rgb(247, 193, 193));
 draw_line(715, 58, 1334, 58);
 
 // Cards
+
 var _card_x  = 715;
 var _card_w  = 619;
 var _card_h  = 80;
