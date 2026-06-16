@@ -3,6 +3,7 @@ event_inherited()
 
 // Seta direita
 if (keyboard_check_pressed(vk_right)) {
+	scr_clique()
     carro_atual += 1;
     if (carro_atual >= array_length(lista_carros)) {
         carro_atual = 0;
@@ -13,6 +14,7 @@ if (keyboard_check_pressed(vk_right)) {
 
 // Seta esquerda
 if (keyboard_check_pressed(vk_left)) {
+	scr_clique()
     carro_atual -= 1;
     if (carro_atual < 0) {
         carro_atual = array_length(lista_carros) - 1;
