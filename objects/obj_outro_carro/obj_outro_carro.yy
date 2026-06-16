@@ -13,7 +13,10 @@
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_agrupa_cenario",
+    "path":"objects/obj_agrupa_cenario/obj_agrupa_cenario.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
