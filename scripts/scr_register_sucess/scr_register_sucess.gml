@@ -14,6 +14,4 @@ var _defs = global.success_defs.acertos;
         description: _def.description,
         extra_data:  extra_data
     });
-
-    show_debug_message("Acerto registrado: " + event_id);
 }

@@ -13,4 +13,3 @@ sprite_index = lista_carros[global.carro_selecionado];
 //pra movimentação funcionar em todas as fases
 global.em_fase=false;
 
-show_debug_message("carro no create: " + string(global.carro_selecionado));

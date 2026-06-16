@@ -13,6 +13,4 @@ function scr_register_event(event_id, extra_data = {}){
         description: _def.description,
         extra_data:  extra_data
     });
-
-    show_debug_message("Infração registrada: " + event_id);
 }
