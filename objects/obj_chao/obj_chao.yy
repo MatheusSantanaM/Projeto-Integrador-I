@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_carro_red",
-    "path":"sprites/spr_carro_red/spr_carro_red.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
