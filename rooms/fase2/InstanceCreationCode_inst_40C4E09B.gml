@@ -1,0 +1,1 @@
+acertos_possiveis = ["subiu_na_calcada","contra_mao","entrou_local_proibido","atropelou_pedestres","nao_esperou_pedestres_passarem"];
