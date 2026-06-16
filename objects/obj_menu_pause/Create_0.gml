@@ -35,7 +35,7 @@ instance_deactivate_all(true);
 instance_activate_object(obj_carro);
 instance_activate_object(obj_camera);
 instance_activate_object(obj_agrupa_cenario);
-if (instance_exists(obj_semaforo)) {
-    obj_semaforo.image_speed = 0;
+if (instance_exists(obj_agrupa_cenario)) {
+    obj_agrupa_cenario.image_speed = 0;
 }
-global.semaforo_image_speed = 1;
+global.cenario_image_speed= 1;

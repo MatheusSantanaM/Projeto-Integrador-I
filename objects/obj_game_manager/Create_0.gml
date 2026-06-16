@@ -19,4 +19,3 @@ if (_buf != -1) {
     global.success_defs = json_parse(_str);
     buffer_delete(_buf);
 }
-show_debug_message(json_stringify(global.infraction_defs));

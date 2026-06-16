@@ -10,8 +10,9 @@ for (var i = 0; i < btn_count; i++) {
         if (mouse_check_button_pressed(mb_left)) {
             switch (i) {
                 case 0:
-					if (instance_exists(obj_semaforo)) {
-						obj_semaforo.image_speed = global.semaforo_image_speed;
+					scr_clique()
+					if (instance_exists(obj_agrupa_cenario)) {
+						obj_agrupa_cenario.image_speed = global.cenario_image_speed;
 					}
 					instance_activate_all();
                     global.jogo_pausado = false;
@@ -19,11 +20,13 @@ for (var i = 0; i < btn_count; i++) {
                     break;
 
                 case 1:
+				scr_clique()
                     break;
 
                 case 2:
-					if (instance_exists(obj_semaforo)) {
-						obj_semaforo.image_speed = global.semaforo_image_speed;
+					scr_clique()
+					if (instance_exists(obj_agrupa_cenario)) {
+						obj_agrupa_cenario.image_speed = global.cenario_image_speed;
 					}
 					instance_activate_all();
                     global.jogo_pausado = false;
@@ -37,8 +40,8 @@ for (var i = 0; i < btn_count; i++) {
 
 // Fechar com ESC 
 if (keyboard_check_pressed(vk_escape)) {
-	if (instance_exists(obj_semaforo)) {
-						obj_semaforo.image_speed = global.semaforo_image_speed;
+	if (instance_exists(obj_agrupa_cenario)) {
+						obj_agrupa_cenario.image_speed = global.cenario_image_speed;
 					}
 	instance_activate_all();
     global.jogo_pausado = false;
