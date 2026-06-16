@@ -1,0 +1,2 @@
+liberado = true;
+contando = false;

@@ -39,6 +39,11 @@
     "bateu_num_carro": {
       "title": "Colidiu com outro veículo",
       "description": "O seu veículo colidiu com outro carro, resultando em um acidente"
+        },
+    "preferencia": {
+      "title": "Não deu preferência ao outro veículo",
+      "description": "Havia sinalização para dar preferência ao outro veículo, então espere antes do cruzamento até que ele passe completamente"
         }
+
 }
 }
