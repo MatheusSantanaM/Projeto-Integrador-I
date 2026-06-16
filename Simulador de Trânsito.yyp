@@ -117,6 +117,7 @@
     {"id":{"name":"som_trilha_sonora","path":"sounds/som_trilha_sonora/som_trilha_sonora.yy",},},
     {"id":{"name":"selecao_fases","path":"sprites/selecao_fases/selecao_fases.yy",},},
     {"id":{"name":"spr_","path":"sprites/spr_/spr_.yy",},},
+    {"id":{"name":"spr_asfalto","path":"sprites/spr_asfalto/spr_asfalto.yy",},},
     {"id":{"name":"spr_audio_off","path":"sprites/spr_audio_off/spr_audio_off.yy",},},
     {"id":{"name":"spr_audio_on","path":"sprites/spr_audio_on/spr_audio_on.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},

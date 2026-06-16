@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_preto",
-    "path":"sprites/spr_preto/spr_preto.yy",
+    "name":"spr_asfalto",
+    "path":"sprites/spr_asfalto/spr_asfalto.yy",
   },
   "spriteMaskId":null,
   "visible":true,

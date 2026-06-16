@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"obj_dois_pedestres",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_carro","path":"objects/obj_carro/obj_carro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_dois_pedestres",
   "overriddenProperties":[],
