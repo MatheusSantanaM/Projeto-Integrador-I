@@ -1,0 +1,1 @@
+acertos_possiveis = ["sinal_vermelho", "nao_esperou_pedestres_passarem", "subiu_na_calcada","atropelou_pedestres"];

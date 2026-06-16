@@ -4,7 +4,6 @@ if (!infraction_registered) {
             scr_register_event("entrou_local_proibido", {});
 			other.infraction_registered = true;
 			global.quant_infracoes +=1
-			
         }
     }
 }
