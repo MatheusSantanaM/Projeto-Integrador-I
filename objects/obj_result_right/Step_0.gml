@@ -7,6 +7,7 @@ if (array_length(global.infraction_log) == 0) {
 
         if (mouse_x > _btn_x && mouse_x < _btn_x + _btn_w
         &&  mouse_y > _btn_y && mouse_y < _btn_y + _btn_h) {
+			scr_clique()
             global.infraction_log = [];
             global.success_log    = [];
             room_goto(global.proxima_fase);

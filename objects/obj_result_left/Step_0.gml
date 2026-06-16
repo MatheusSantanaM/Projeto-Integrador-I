@@ -15,8 +15,9 @@ if (mouse_check_button_pressed(mb_left)) {
     // Botão Reiniciar
     if (mouse_x > _btn_x + _btn_w / 2 + 4 && mouse_x < _btn_x + _btn_w
     &&  mouse_y > _btn_y && mouse_y < _btn_y + _btn_h) {
+		scr_clique()
         global.infraction_log = [];
         global.success_log    = [];
-        room_goto(global.proxima_fase == fase2 ? fase1 : fase2);
+        room_goto(global.fase_atual);
     }
 }
