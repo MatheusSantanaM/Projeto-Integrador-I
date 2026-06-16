@@ -1,0 +1,1 @@
+acertos_possiveis = ["subiu_na_calcada","contra_mao","parada_obrigatoria","atropelou_pedestres","passou_na_faixa_junto_com_pedestres","bateu_num_carro","preferencia"];
