@@ -33,9 +33,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_carro",
-    "path":"sprites/spr_carro/spr_carro.yy",
+    "name":"spr_carro_azul",
+    "path":"sprites/spr_carro_azul/spr_carro_azul.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_carro_azul",
+    "path":"sprites/spr_carro_azul/spr_carro_azul.yy",
+  },
   "visible":true,
 }
