@@ -6,39 +6,39 @@
     },
     "subiu_na_calcada": {
       "title": "Subiu na calçada",
-      "description": "Você subiu na calçada. Isso é uma infração gravíssima e pode causar acidentes sérios."
+      "description": "Você entrou com o veículo na calçada. Essa é uma infração gravíssima e pode causar acidentes com pedestres"
     },
     "contra_mao": {
       "title": "Entrou na contra-mão",
-      "description": "Você entrou na contra-mão. Isso é uma infração gravíssima e pode causar acidentes sérios."
+      "description": "Você entrou na contra-mão. Essa ação pode colocar sua segurança e a de outros em risco."
     },
     "atropelou_pedestres": {
       "title": "Atropelou os pedestres",
-      "description": "Você atrolou os pedestres e causou um acidente. Tente a fase novamente!."
+      "description": "Você atingiu pedestres e causou um acidente. Tente novamente."
     },
     "entrou_local_proibido": {
       "title": "Entrada em local proibido",
-      "description": "Você virou a direita em um cruzamento que estava sinalizado para não virar."
+      "description": "Você realizou a conversão em um cruzamento sinalizado como proibido para virar à direita."
     },
     "nao_esperou_pedestres_passarem": {
       "title": "Não esperou pedestres passarem",
-      "description": "Você não parou na faixa para os pedestres passarem. Essa parada é obrigatória"
+      "description": "Você não parou na faixa para os pedestres atravessarem. A parada é obrigatória."
     },
     "nao_cumpriu_objetivo": {
       "title": "Não cumpriu objetivo da fase",
-      "description": "Você não cumpriu o objetivo da fase, tente novamente!"
+      "description": "Você não atingiu o objetivo da fase. Tente novamente!"
         },
     "parada_obrigatoria": {
-      "title": "Não parou em local de parada obrigatória",
-      "description": "A parada no cruzamento era obrigatória e você não parou!"
+      "title": "Ignorou parada obrigatória",
+      "description": "Havia parada obrigatória no cruzamento e você não a realizou!"
         },     
     "passou_na_faixa_junto_com_pedestres": {
-      "title": "Passou na faixa junto com os pedestres",
+      "title": "Atravessou na faixa junto com pedestres",
       "description": "Você deve esperar os pedestres completarem completamente a travessia da faixa para que você possa passar"
         },
     "bateu_num_carro": {
-      "title": "Bateu em outro carro",
-      "description": "Houve um acidente com a colisão do seu carro com outro"
+      "title": "Colidiu com outro veículo",
+      "description": "O seu veículo colidiu com outro carro, resultando em um acidente"
         }
 }
 }
