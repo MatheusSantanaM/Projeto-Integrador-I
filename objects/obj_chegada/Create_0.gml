@@ -14,5 +14,6 @@ infraction_to_success = {
     "nao_cumpriu_objetivo":                "cumpriu_objetivo",
     "parada_obrigatoria":                  "respeitou_parada_obrigatoria",
     "passou_na_faixa_junto_com_pedestres": "respeitou_faixa_de_pedestre",
-    "bateu_num_carro":                     "nao_bateu_num_carro"
+    "bateu_num_carro":                     "nao_bateu_num_carro",
+	"preferencia":						   "respeitou_preferencia"
 };

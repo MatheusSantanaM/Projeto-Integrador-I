@@ -39,6 +39,10 @@
     "cumpriu_objetivo": {
       "title": "Cumpriu o Objetivo da Fase",
       "description": "Você atingiu o objetivo da fase com sucesso!" 
+        },
+    "respeitou_preferencia": {
+      "title": "Respeitou a Preferência do Outro Veículo",
+      "description": "Você deu preferência ao outro veículo conforme a sinalização, muito bem!"
         }
     }
 }
