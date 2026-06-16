@@ -86,6 +86,7 @@
     {"id":{"name":"obj_subiu_calcada_esquerda","path":"objects/obj_subiu_calcada_esquerda/obj_subiu_calcada_esquerda.yy",},},
     {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
     {"id":{"name":"obj_texto_sobre","path":"objects/obj_texto_sobre/obj_texto_sobre.yy",},},
+    {"id":{"name":"obj_vars_dificuldade","path":"objects/obj_vars_dificuldade/obj_vars_dificuldade.yy",},},
     {"id":{"name":"obj_voltaraomenu","path":"objects/obj_voltaraomenu/obj_voltaraomenu.yy",},},
     {"id":{"name":"fase1","path":"rooms/fase1/fase1.yy",},},
     {"id":{"name":"fase2","path":"rooms/fase2/fase2.yy",},},
