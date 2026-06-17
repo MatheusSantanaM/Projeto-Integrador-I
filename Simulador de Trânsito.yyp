@@ -121,6 +121,7 @@
     {"id":{"name":"spr_asfalto","path":"sprites/spr_asfalto/spr_asfalto.yy",},},
     {"id":{"name":"spr_audio_off","path":"sprites/spr_audio_off/spr_audio_off.yy",},},
     {"id":{"name":"spr_audio_on","path":"sprites/spr_audio_on/spr_audio_on.yy",},},
+    {"id":{"name":"spr_background_certo","path":"sprites/spr_background_certo/spr_background_certo.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_barreira","path":"sprites/spr_barreira/spr_barreira.yy",},},
     {"id":{"name":"spr_bt_sair","path":"sprites/spr_bt_sair/spr_bt_sair.yy",},},

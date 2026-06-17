@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_background",
-    "path":"sprites/spr_background/spr_background.yy",
+    "name":"spr_background_certo",
+    "path":"sprites/spr_background_certo/spr_background_certo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
