@@ -1,21 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dois_pedestres",
+  "%Name":"obj_vars_dificuldade",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_carro","path":"objects/obj_carro/obj_carro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_dois_pedestres",
+  "name":"obj_vars_dificuldade",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":{
-    "name":"obj_agrupa_cenario",
-    "path":"objects/obj_agrupa_cenario/obj_agrupa_cenario.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_dois_pedestres",
-    "path":"sprites/spr_dois_pedestres/spr_dois_pedestres.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

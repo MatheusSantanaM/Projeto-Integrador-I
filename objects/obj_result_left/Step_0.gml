@@ -17,7 +17,11 @@ if (mouse_check_button_pressed(mb_left)) {
     &&  mouse_y > _btn_y && mouse_y < _btn_y + _btn_h) {
 		scr_clique()
         global.infraction_log = [];
-        global.success_log    = [];
+		global.success_log    = [];
+		global.quant_infracoes = 0;
+		global.quant_acertos = 0;
+		global.pior_infracao = false;
+		global.cumpriu_objetivo = true;
         room_goto(global.fase_atual);
     }
 }

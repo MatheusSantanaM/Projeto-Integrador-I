@@ -2,6 +2,7 @@ global.infraction_log = [];
 global.success_log    = [];
 global.quant_acertos = 0;
 global.quant_infracoes = 0;
+global.fase_atual = room
 global.proxima_fase   = room_next(room);
 infraction_to_success = {
     "sinal_vermelho":                      "sinal_verde",
