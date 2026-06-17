@@ -31,7 +31,7 @@ for (var i = 0; i < btn_count; i++) {
 					instance_activate_all();
                     global.jogo_pausado = false;
 					instance_destroy();
-                    room_goto(spr_explecacao_niveis);
+                    room_goto(menu);
                     break;
             }
         }
