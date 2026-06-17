@@ -2,7 +2,7 @@ var cor_anterior = draw_get_colour();
 var font_anterior = draw_get_font();
 
 draw_set_font(fonte_pixel);
-draw_set_colour(c_black);
+draw_set_colour(c_white);
 
 var texto = texto_sobre;
 
