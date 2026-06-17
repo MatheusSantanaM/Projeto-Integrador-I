@@ -8,5 +8,9 @@ with obj_button_dificil{
 image_index = 0
 }
 
+with obj_explicacao_niveis{
+image_index = 0
+}
+
 // som de clique
 scr_clique()

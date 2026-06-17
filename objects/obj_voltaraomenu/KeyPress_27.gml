@@ -1,1 +1,1 @@
-room_goto(Menu)
+room_goto(spr_explecacao_niveis)

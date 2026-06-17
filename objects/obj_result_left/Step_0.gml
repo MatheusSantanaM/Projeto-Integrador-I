@@ -9,7 +9,7 @@ if (mouse_check_button_pressed(mb_left)) {
     &&  mouse_y > _btn_y && mouse_y < _btn_y + _btn_h) {
         global.infraction_log = [];
         global.success_log    = [];
-        room_goto(Menu);
+        room_goto(spr_explecacao_niveis);
     }
 
     // Botão Reiniciar

@@ -11,6 +11,8 @@ image_index = 1
 // som de clique
 scr_clique()
 
-
+with obj_explicacao_niveis{
+image_index = 2
+}
 
 show_debug_message(global.max_infracoes);
