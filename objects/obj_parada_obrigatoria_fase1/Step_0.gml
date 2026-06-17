@@ -10,6 +10,7 @@ if (car != noone) {
     if (global.contando && !liberado) {
         with (obj_carro) {
             scr_register_event("nao_esperou_pedestres_passarem", {});
+			scr_erro()
 			other.infraction_registered = true;
 			global.quant_infracoes +=1
 			global.pior_infracao = true

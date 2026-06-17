@@ -5,6 +5,7 @@ if (!infraction_registered) {
         with (obj_carro) {
             if (place_meeting(x, y, obj_faixa) && (frame == 0 || frame == 1 || frame == 4)) {
                 scr_register_event("sinal_vermelho", {});
+				scr_erro()
                 other.infraction_registered = true;
 				global.pior_infracao = true;
             }

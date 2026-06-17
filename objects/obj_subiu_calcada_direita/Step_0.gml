@@ -9,7 +9,8 @@ with (obj_carro) {
 if (colidindo) {
     if (!infraction_registered) {
         scr_register_event("subiu_na_calcada", {});
-        infraction_registered = true;
+        scr_erro()
+		infraction_registered = true;
         global.quant_infracoes += 1;
     }
 

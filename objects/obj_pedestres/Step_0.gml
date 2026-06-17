@@ -44,7 +44,8 @@ if (!infraction_registered) {
     with (obj_carro) {
         if (place_meeting(x, y, obj_pedestres)) {
             scr_register_event("atropelou_pedestres", {});
-            other.infraction_registered = true;
+            scr_erro()
+			other.infraction_registered = true;
 			global.pior_infracao = true;
 			global.quant_infracoes += 1;
 		}

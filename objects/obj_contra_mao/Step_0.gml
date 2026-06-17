@@ -9,6 +9,7 @@ with (obj_carro) {
 if (colidindo) {
     if (!infraction_registered) {
         scr_register_event("contra_mao", {});
+		scr_erro()
         infraction_registered = true;
         global.quant_infracoes += 1;
     }

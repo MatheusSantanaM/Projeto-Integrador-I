@@ -14,7 +14,8 @@ if (instance_exists(obj_pedestres)){
 if (place_meeting(x,y, obj_carro) && pedestre_na_faixa){
 	    if (!infraction_registered){
 		scr_register_event("passou_na_faixa_junto_com_pedestres", {});
-        infraction_registered = true;
+        scr_erro()
+		infraction_registered = true;
         global.quant_infracoes += 1;
 		}
 

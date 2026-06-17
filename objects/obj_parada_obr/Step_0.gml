@@ -11,6 +11,7 @@ if (car != noone) {
         with (obj_carro) {
             scr_register_event("parada_obrigatoria", {});
 			other.infraction_registered = true;
+			scr_erro()
 			global.quant_infracoes +=1
 			global.pior_infracao = true
         }
