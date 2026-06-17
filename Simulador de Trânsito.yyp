@@ -133,6 +133,7 @@
     {"id":{"name":"spr_button_opcoes","path":"sprites/spr_button_opcoes/spr_button_opcoes.yy",},},
     {"id":{"name":"spr_button_sair","path":"sprites/spr_button_sair/spr_button_sair.yy",},},
     {"id":{"name":"spr_button_sobre","path":"sprites/spr_button_sobre/spr_button_sobre.yy",},},
+    {"id":{"name":"spr_calcada","path":"sprites/spr_calcada/spr_calcada.yy",},},
     {"id":{"name":"spr_camslow","path":"sprites/spr_camslow/spr_camslow.yy",},},
     {"id":{"name":"spr_carro_azul","path":"sprites/spr_carro_azul/spr_carro_azul.yy",},},
     {"id":{"name":"spr_carro_leon","path":"sprites/spr_carro_leon/spr_carro_leon.yy",},},
