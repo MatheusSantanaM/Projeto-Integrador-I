@@ -57,9 +57,9 @@ if (array_length(global.infraction_log) == 0) {
 }
 
 
-if	global.quant_infracoes < global.max_infracoes and 
+if	global.quant_infracoes <= global.max_infracoes and 
 	global.pior_infracao  = false and 
-	global.cumpriu_objetivo = true{
+	global.cumpriu_objetivo = true {
     var _btn_y = 700;
     var _btn_x = 1051;
     var _btn_w = 295;
