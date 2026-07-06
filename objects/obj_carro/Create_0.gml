@@ -13,3 +13,5 @@ sprite_index = lista_carros[global.carro_selecionado];
 //pra movimentação funcionar em todas as fases
 global.em_fase=false;
 
+// Valocidade em km/h
+velocidade_kmh = 0;

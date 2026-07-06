@@ -1,2 +1,2 @@
 scr_clique()
-room_goto(seletor_fases)
+room_goto(menu_seletor_fases)

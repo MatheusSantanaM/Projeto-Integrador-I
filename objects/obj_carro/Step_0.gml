@@ -18,3 +18,7 @@ if (global.em_fase){
 	x += velocidade_horizontal;
 	y += spd_v;
 }
+
+// Velocidade em km/h
+velocidade_kmh = round(((abs(spd_v) / vel_max) * 100) / 10) * 10;
+velocidade_kmh = clamp(velocidade_kmh, 0, 100);

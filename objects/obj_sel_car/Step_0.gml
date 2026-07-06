@@ -26,6 +26,6 @@ if (keyboard_check_pressed(vk_left)) {
 // Confirma seleção e vai para a fase
 if (keyboard_check_pressed(vk_enter))
 {	show_debug_message("antes de ir pra fase: " + string(global.carro_selecionado));
-   room_goto(seletor_fases);
+   room_goto(menu_seletor_fases);
 }
 
