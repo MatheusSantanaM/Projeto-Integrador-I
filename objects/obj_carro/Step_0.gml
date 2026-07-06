@@ -4,13 +4,27 @@ if (global.em_fase){
 	mover_horizontal = -keyboard_check(vk_left) + keyboard_check(vk_right);
 	velocidade_horizontal = mover_horizontal * spd_h;
 
+
+
 // Mexer cima e baixo
+		// Desaceleração quando clica pra baixo
+		if (keyboard_check(vk_down) && spd_v < 0) {
+			spd_v *= 0.98;
+		}
+
 	mover_vertical = -keyboard_check(vk_up) + keyboard_check(vk_down);
 
 	if (mover_vertical != 0) {
 	    spd_v += mover_vertical * aceleracao;
 	} else {
-	    spd_v *= 0.96;
+	  if (spd_v > 0) {
+		    spd_v -= aceleracao;
+			if (spd_v < 0) spd_v = 0;
+	    }
+		else if (spd_v < 0) {
+			spd_v += aceleracao;
+			if (spd_v > 0) spd_v = 0;
+		}	
 	}
 
 	spd_v = clamp(spd_v, -vel_max, vel_max);
