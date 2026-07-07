@@ -1,18 +1,12 @@
 if (global.jogo_pausado) exit;
-if (!chegou_ja){
+
 with (obj_pro_carro_andar){
 	if (place_meeting(x,y,obj_carro)){
-		global.chegou_preferencia = true
-		scr_erro()
-		other.chegou_ja = true
-}}}
+		other.pode_andar = true
+}}
 
 // Pro carro começar a andar
-if (global.chegou_preferencia){
-	x -= 3;
+if (pode_andar){
+	y -= velocidade;
 }
 
-// Limite até onde vai
-if (x = -224){
-	global.chegou_preferencia = false
-}
