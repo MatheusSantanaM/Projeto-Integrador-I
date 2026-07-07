@@ -7,14 +7,14 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_56E9B455_2","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
-    {"name":"inst_1BFF7C9B","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
     {"name":"inst_49208873","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
-    {"name":"inst_488BDB6","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
     {"name":"inst_32DE3F49","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
     {"name":"inst_422D242C","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
     {"name":"inst_17308BCE","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
-    {"name":"inst_527836A9","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
     {"name":"inst_1F092C26","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
+    {"name":"inst_488BDB6","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
+    {"name":"inst_527836A9","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
+    {"name":"inst_1BFF7C9B","path":"rooms/menu_seletor_fases/menu_seletor_fases.yy",},
   ],
   "isDnd":false,
   "layers":[

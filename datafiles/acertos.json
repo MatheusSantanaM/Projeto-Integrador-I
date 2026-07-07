@@ -43,6 +43,14 @@
     "respeitou_preferencia": {
       "title": "Respeitou a Preferência do Outro Veículo",
       "description": "Você deu preferência ao outro veículo conforme a sinalização, muito bem!"
+        },   
+ "respeitou_limite_velocidade": {
+      "title": "Respeitou o limite de velocidade",
+      "description": "Você respeitou o limite de 80km/h da sinalização, muito bem!"
+        },     
+"nao_ultrapassou": {
+      "title": "Não ultrapassou em local proibido",
+      "description": "Você não ultrapassou o carro devagar a frente em faixa contínua, muito bem!"
         }
     }
 }
