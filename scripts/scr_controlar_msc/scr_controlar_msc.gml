@@ -3,7 +3,7 @@ function scr_controlar_msc() {
 		audio_stop_all();
 		return
     }else if(global.audio_ligado){
-	    if (room == fase2) {
+	    if (room == fase1 || room == fase2 || room == fase3 || room == fase4) {
 			audio_stop_all()
 		    audio_play_sound(som_fases, 10, true);
 		} else {
