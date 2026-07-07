@@ -43,6 +43,9 @@
     "respeitou_preferencia": {
       "title": "Respeitou a Preferência do Outro Veículo",
       "description": "Você deu preferência ao outro veículo conforme a sinalização, muito bem!"
+        },  "chegou_atrasado": {
+      "title": "Respeitou o limite de velocidade",
+      "description": "Parabéns! Você chegou atrasado, mas respeitou o limite de velocidade, sua segurança é mais importante que qualquer compromisso"
         },   
  "respeitou_limite_velocidade": {
       "title": "Respeitou o limite de velocidade",
