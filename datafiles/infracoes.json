@@ -43,7 +43,12 @@
     "preferencia": {
       "title": "Não deu preferência ao outro veículo",
       "description": "Havia sinalização para dar preferência ao outro veículo, então espere até que ele passe completamente"
+        }, 
+    "limite_velocidade": {
+      "title": "Você avançou o limite de velocidade",
+      "description": "Havia sinalização com limite de velocidade de 80km/h e você passou disso"
         }
+
 
 }
 }
