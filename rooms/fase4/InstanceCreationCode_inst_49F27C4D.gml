@@ -1,0 +1,1 @@
+acertos_possiveis=["subiu_na_calcada","contra_mao","bateu_num_carro"]
