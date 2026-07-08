@@ -50,11 +50,26 @@ https://docs.google.com/document/d/1SZBoq_lk4lPDAnBEfg82g_33HdAx6mlJ8v0g2_HXTbE/
 | Pausar           | `Esc`              |
 | Voltar ao menu   | Botão na interface |
 
-## Licença e créditos
-Todos os direitos reservados. Permitido usar, modificar e compartilhar com atribuição, vedado uso comercial, revenda e redistribuição com fins lucrativos.
-
 ## Desenvolvido por:
 - Matheus Santana - Game Design
 - Thaís Ávila - Level Design
-- Graziele Sousa - 2D game artist
+- Graziele Sousa - 2D Game Artist
 - Sarah Sobrinho - Game Tester
+
+
+
+## Licença e créditos
+Todos os direitos reservados. Permitido usar, modificar e compartilhar com atribuição, vedado uso comercial, revenda e redistribuição com fins lucrativos.
+### Créditos
+- Trilha sonora 
+Piano loops 208 efect octave long loop 120 bpm by josefpres -- https://freesound.org/s/853520/ -- License: Creative Commons 0
+- Trilha sonora fases 
+Piano Loops12 by beatsbrah -- https://freesound.org/s/851576/ -- License: Attribution NonCommercial 4.0
+- Som_ganhou
+Jingle_Win_00.wav by LittleRobotSoundFactory -- https://freesound.org/s/270333/ -- License: Attribution 4.0
+- som_erro:
+Error sound.ogg by TheMrAngelGames584 -- https://freesound.org/s/674824/ -- License: Creative Commons 0
+- sprite placa virar a direita
+designed by Freepik - Magnific.com
+- sprite placa pare
+designed by negoo-s - Magnific.com
