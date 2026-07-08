@@ -142,6 +142,7 @@
     {"id":{"name":"som_trilha_sonora","path":"sounds/som_trilha_sonora/som_trilha_sonora.yy",},},
     {"id":{"name":"selecao_fases","path":"sprites/selecao_fases/selecao_fases.yy",},},
     {"id":{"name":"spr_","path":"sprites/spr_/spr_.yy",},},
+    {"id":{"name":"spr_4pedestres","path":"sprites/spr_4pedestres/spr_4pedestres.yy",},},
     {"id":{"name":"spr_80km","path":"sprites/spr_80km/spr_80km.yy",},},
     {"id":{"name":"spr_asfalto","path":"sprites/spr_asfalto/spr_asfalto.yy",},},
     {"id":{"name":"spr_audio_off","path":"sprites/spr_audio_off/spr_audio_off.yy",},},

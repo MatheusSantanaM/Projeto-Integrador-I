@@ -17,7 +17,7 @@ if (global.carro_ta_aqui && semaforo_vermelho){
 if (room=fase1){
 	if (movendo_faixa){
 	x += velocidade
-		if (x=384){
+		if (x=288){
 			velocidade = 0
 			movendo_faixa = false
 		}
@@ -32,7 +32,7 @@ if (room=fase2){
 	}
 	if (movendo_faixa){
 	x += velocidade
-		if (x=384){
+		if (x=284){
 			velocidade = 0
 		}
 	

@@ -12,6 +12,6 @@ if (global.chegou){
 }
 
 // Limite até onde vai
-if (x = 416){
+if (x = 384){
 	global.chegou = false
 }

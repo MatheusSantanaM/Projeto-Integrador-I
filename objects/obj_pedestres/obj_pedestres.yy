@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_pedestre",
-    "path":"sprites/spr_pedestre/spr_pedestre.yy",
+    "name":"spr_4pedestres",
+    "path":"sprites/spr_4pedestres/spr_4pedestres.yy",
   },
   "spriteMaskId":null,
   "visible":true,

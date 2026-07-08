@@ -3,7 +3,6 @@ if (!chegou_ja){
 with (obj_pro_carro_andar){
 	if (place_meeting(x,y,obj_carro)){
 		global.chegou_preferencia = true
-		scr_erro()
 		other.chegou_ja = true
 }}}
 
