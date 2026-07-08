@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    <title>Airtest Report </title>
+    
+    <!--[if lt IE 9]>
+    <script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link href="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/css/report.css" rel="stylesheet">
+
+    <script src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/js/jquery-1.10.2.min.js"></script>
+    <script src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/js/jquery-lang.js" charset="utf-8" type="text/javascript"></script>
+    <script src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/js/langpack/zh_CN.js" charset="utf-8" type="text/javascript"></script>
+    <script src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/js/lazyload.js" charset="utf-8" type="text/javascript"></script>
+    <script type="text/javascript">
+      data = {"steps": [{"title": "Connect device", "time": 1780449747.3345113, "code": {"name": "connect_device", "args": [{"key": "uri", "value": "Windows:///"}]}, "screen": null, "desc": "Connect device: Windows:///", "traceback": "", "log": "", "assert": null}, {"title": "Wait", "time": 1780449749.6201766, "code": {"name": "wait", "args": [{"key": "v", "value": {"filename": "tpl1780434301723.png", "_filepath": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\tpl1780434301723.png", "threshold": 0.7, "target_pos": 5, "record_pos": [-0.003, -0.001], "resolution": [1366, 768], "rgb": false, "scale_max": 800, "scale_step": 0.005, "__class__": "Template"}, "image": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\tpl1780434301723.png", "resolution": [1229, 744]}, {"key": "timeout", "value": null}, {"key": "interval", "value": 0.5}, {"key": "intervalfunc", "value": null}]}, "screen": {"src": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\log\\1780449749563.jpg", "rect": [{"left": 908, "top": 186, "width": 1011, "height": 763}], "pos": [[1535, 567]], "vector": [], "confidence": 0.7015750110149384, "resolution": [1920, 1080], "_filepath": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\log\\1780449749563.jpg", "thumbnail": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\log\\1780449749563_small.jpg"}, "desc": "Wait for target image to appear", "traceback": "", "log": "", "assert": null}, {"title": "Snapshot", "time": 1780449749.6909359, "code": {"name": "snapshot", "args": [{"key": "msg", "value": "PASSOU: Fase 2 carregou corretamente"}, {"key": "filename", "value": null}, {"key": "quality", "value": null}, {"key": "max_size", "value": null}]}, "screen": {"src": "1780449749664.jpg", "rect": [], "pos": [], "vector": [], "confidence": null}, "desc": "Screenshot description: PASSOU: Fase 2 carregou corretamente", "traceback": "", "log": "", "assert": null}, {"title": "Sleep", "time": 1780449751.709142, "code": {"name": "sleep", "args": [{"key": "secs", "value": 2.0}]}, "screen": null, "desc": "Wait for 2.0 seconds", "traceback": "", "log": "", "assert": null}, {"title": "Wait", "time": 1780449774.584474, "code": {"name": "wait", "args": [{"key": "v", "value": {"filename": "tpl1780435013047.png", "_filepath": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\tpl1780435013047.png", "threshold": 0.7, "target_pos": 5, "record_pos": [0.004, -0.001], "resolution": [1366, 768], "rgb": false, "scale_max": 800, "scale_step": 0.005, "__class__": "Template"}, "image": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\tpl1780435013047.png", "resolution": [1351, 746]}, {"key": "timeout", "value": null}, {"key": "interval", "value": 0.5}, {"key": "intervalfunc", "value": null}]}, "screen": {"src": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\log\\1780449774553.jpg", "rect": [], "pos": [], "vector": [], "confidence": null, "resolution": [1920, 1080], "_filepath": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\log\\1780449774553.jpg", "thumbnail": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\log\\1780449774553_small.jpg"}, "desc": "Wait for target image to appear", "traceback": "Traceback (most recent call last):\n  File \"airtest\\utils\\logwraper.py\", line 131, in wrapper\n  File \"airtest\\core\\api.py\", line 617, in wait\n  File \"airtest\\utils\\logwraper.py\", line 131, in wrapper\n  File \"airtest\\core\\cv.py\", line 80, in loop_find\nairtest.core.error.TargetNotFoundError: 'Picture Template(C:\\\\Users\\\\sarah\\\\OneDrive\\\\Documentos\\\\teste.air\\\\teste1_fase2\\\\tpl1780435013047.png) not found in screen'\n", "log": "", "assert": null}, {"title": "Snapshot", "time": 1780449774.6446579, "code": {"name": "snapshot", "args": [{"key": "msg", "value": "FALHOU: Deveria ter dado infra\u00e7\u00e3o mas n\u00e3o deu"}, {"key": "filename", "value": null}, {"key": "quality", "value": null}, {"key": "max_size", "value": null}]}, "screen": {"src": "1780449774622.jpg", "rect": [], "pos": [], "vector": [], "confidence": null}, "desc": "Screenshot description: FALHOU: Deveria ter dado infra\u00e7\u00e3o mas n\u00e3o deu", "traceback": "", "log": "", "assert": null}, {"title": "Wait", "time": 1780449790.5619502, "code": {"name": "wait", "args": [{"key": "v", "value": {"filename": "tpl1780435429313.png", "_filepath": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\tpl1780435429313.png", "threshold": 0.7, "target_pos": 5, "record_pos": [-0.001, 0.001], "resolution": [1366, 768], "rgb": false, "scale_max": 800, "scale_step": 0.005, "__class__": "Template"}, "image": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\tpl1780435429313.png", "resolution": [1342, 749]}, {"key": "timeout", "value": 15}, {"key": "interval", "value": 0.5}, {"key": "intervalfunc", "value": null}]}, "screen": {"src": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\log\\1780449790534.jpg", "rect": [], "pos": [], "vector": [], "confidence": null, "resolution": [1920, 1080], "_filepath": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\log\\1780449790534.jpg", "thumbnail": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\log\\1780449790534_small.jpg"}, "desc": "Wait for target image to appear", "traceback": "Traceback (most recent call last):\n  File \"airtest\\utils\\logwraper.py\", line 131, in wrapper\n  File \"airtest\\core\\api.py\", line 617, in wait\n  File \"airtest\\utils\\logwraper.py\", line 131, in wrapper\n  File \"airtest\\core\\cv.py\", line 80, in loop_find\nairtest.core.error.TargetNotFoundError: 'Picture Template(C:\\\\Users\\\\sarah\\\\OneDrive\\\\Documentos\\\\teste.air\\\\teste1_fase2\\\\tpl1780435429313.png) not found in screen'\n", "log": "", "assert": null}, {"title": "Snapshot", "time": 1780449790.6301744, "code": {"name": "snapshot", "args": [{"key": "msg", "value": "FALHOU: Faixa de pedestres n\u00e3o apareceu"}, {"key": "filename", "value": null}, {"key": "quality", "value": null}, {"key": "max_size", "value": null}]}, "screen": {"src": "1780449790606.jpg", "rect": [], "pos": [], "vector": [], "confidence": null}, "desc": "Screenshot description: FALHOU: Faixa de pedestres n\u00e3o apareceu", "traceback": "", "log": "", "assert": null}], "name": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2", "scale": 0.5, "test_result": true, "run_end": 1780449790.6301744, "run_start": 1780449747.0558126, "static_root": "C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/", "lang": "en", "records": [], "info": {"name": "teste1_fase2.py", "path": "C:\\Users\\sarah\\OneDrive\\Documentos\\teste.air\\teste1_fase2\\teste1_fase2.py", "author": "sarah", "title": "", "desc": "", "devices": {"": "Windows:///"}}, "log": "log.txt", "console": ""};
+      lang = new Lang();
+      lang.init({
+        defaultLang: 'en',
+        currentLang: 'en'
+      });
+    </script>
+  </head>
+
+  <body>
+
+    <div class="container-fluid">
+      <div class="row">
+        
+        <div id="main" class="main col-md-12">
+          <div id="back_multi"></div>
+          <h1 class="title">Airtest Report </h1>
+          
+          <div class="summary" >
+
+            <div class="show-horizontal">
+              <div class="info info1">
+                <div class="info-left">
+                  <img id='result-img' />
+                </div>
+                <div class="info-right">
+                  <div class="info-title"><span lang='en'>Airtest Report</span>
+                    <label id='result-desc' lang="en"></label>
+                  </div>
+                  <div class="info-content">
+                    <div class='info-sub start'></div>
+                    <div class='info-sub time'></div>
+                  </div>
+                  <div class="info-toal">
+                    <div class="info-step">
+                      <span class="info-name" lang="en">Steps: </span>
+                      <span class="info-value">8</span>
+                    </div>
+                    <div class="info-time">
+                      <span class="info-name" lang="en">Time: </span>
+                      <span class="info-value duration">xxx</span>
+                    </div>
+                    
+                    
+                    <div class="info-log">
+                      <span class="info-name" lang="en">Log: </span>
+                      <span class="info-value log">
+                        <a href="log.txt" target="_blank" download="log.txt">log.txt <img src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/download_log.svg" /></a>
+                      </span>
+                    </div>
+                    
+                  </div>
+                </div>
+              </div>
+
+              <div class="info info2">
+                <div class="info-left"></div>
+                <div class="info-right">
+                  <div class="info-title"><span lang='en'>Executors</span></div>
+                  <div class="info-content">
+                    <div class="info-execute">
+                      <div class="circle-img"></div>
+                      
+                        <div class="info-name"><span lang="en">Author:</span> sarah</div>
+                      
+                    </div>
+                    <div class="info-execute">
+                      <div class="circle-img"></div>
+                      <div class="info-file" title="C:\Users\sarah\OneDrive\Documentos\teste.air\teste1_fase2\teste1_fase2.py">teste1_fase2.py
+                        <img id="copy_path" class="copy-img" data-value="C:\Users\sarah\OneDrive\Documentos\teste.air\teste1_fase2\teste1_fase2.py" title="copy file path to clipboard" src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/copy.svg" />
+                      </div>
+                    </div>
+
+                    
+                    <div class="info-execute">
+                      <div class="circle-img"></div>
+                      
+                      <div class="info-file" title="Windows:///"><span lang="en">Device: </span> 
+                        <img class="copy-img" title="copy file path to clipboard" src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/copy.svg" data-value="Windows:///"/>
+                      </div>
+                    </div>
+                    
+
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            
+          </div>
+          <div class="device" id='device'>
+          </div>
+          <!-- 可以额外显示自定义模块，支持插入Html内容 -->
+          
+          <div class="gallery">
+            <div class="info-title"><span lang="en">Quick view</span></div>
+            <div class ='placeholder'>
+              <div class="content">
+              </div>
+            </div>
+          </div>
+
+          <!--单步-->
+          
+          
+          <div class="steps">
+            <div class="content">
+              <div class="steps-head">
+                <div class="head-left">
+                  <div class="order" id='order'><span lang="en">order</span></div>
+                  <div class="order" id='duration'><span lang="en">duration</span></div>
+                  <div class="order" id='status'><span lang="en">status</span></div>
+                </div>
+                <div class="head-right">
+                  <span lang="en" class="jump-wrong" id='jump-wrong'>Jump to wrong step</span>
+                  <span lang="en">Filter by:</span>
+                  <span class="filters">
+                    <span lang="en" class="filter" id="all" alt="show all steps">All</span>
+                    <span lang="en" class="filter" id='success' alt="show success steps only">Success</span>
+                    <span lang="en" class="filter" id='fail' alt="show failed steps only">Failed</span>
+                    <span lang="en" class="filter" id="assert" alt="show steps with assertion only">Assert</span>
+                  </span>
+                </div>
+              </div>
+              <div class="steps-content">
+                <div class="step-left" id='step-left'>
+                  <div class="step-list"></div>
+                  <div id="pageTool"></div>
+                </div>
+                <div class="step-right" id='step-right'></div>
+              </div>
+            </div>
+            
+            </div>
+        </div>
+        
+      
+      <div class="footer">
+        <div class="footer-content">
+          <div class="foo">
+            <div class="interfaces">
+              <a class="icon" href="https://github.com/AirtestProject/Airtest"  target="_blank">
+                <img src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/Airtest.png" alt="airtest">
+              </a>
+              <a class="icon" href="https://github.com/AirtestProject/poco"  target="_blank">
+                <img src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/poco.png" alt="Poco">
+              </a>
+            </div>
+          </div>
+          <div class="foo">
+            <div class="apps">
+              <a class="icon ide" href="http://airtest.netease.com/"  target="_blank">
+                <img src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/AirtestIDE.png" alt="AirtestIDE">
+              </a>
+              <a class="icon" href="https://airlab.163.com/"  target="_blank">
+                <img src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/AirLab.png" alt="AirLab">
+              </a>
+            </div>
+          </div>
+          <div class="foo">
+            <div class="corp">
+                <img src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/netease.png" alt="NetEase">
+                <span lang="en">© 1997 - 2020 NetEase, Inc. All Rights Reserved.</span>
+            </div>
+          </div>
+        </div>
+      </div> 
+      
+      </div>
+      <!-- 录屏 -->
+      <div class="row gif-wrap show">
+          <div class="menu">
+            <div class="pattern pattern1">
+              <div class="minimize">
+                <img title="minimize" src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/minimize.svg" />
+              </div>
+              <div class="close">
+                <img title="close" src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/close.svg" />
+              </div>
+            </div>
+            <div class="pattern pattern2">
+              <div class="maximize">
+                <img title="maximize" src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/image/maximize.svg" />
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            
+          </div>
+        </div>
+        <!-- max pic -->
+      <div id='magnify' class="mask hide">
+        <div class="content">
+        </div>
+      </div>
+    </div>
+
+  <link href="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/css/monokai_sublime.min.css" rel="stylesheet">
+  <script src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/js/highlight.min.js"></script>
+  <script type="text/javascript" src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/js/paging.js"></script>
+  <script src="C:/Users/sarah/OneDrive/Documentos/AirtestIDE-win-1.2.17/AirtestIDE/airtest/report/js/report.js"></script>
+</body>
+</html>
