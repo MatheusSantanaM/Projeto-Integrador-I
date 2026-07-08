@@ -212,6 +212,8 @@
     {"roomId":{"name":"fase1","path":"rooms/fase1/fase1.yy",},},
     {"roomId":{"name":"fase2","path":"rooms/fase2/fase2.yy",},},
     {"roomId":{"name":"fase3","path":"rooms/fase3/fase3.yy",},},
+    {"roomId":{"name":"fase4_instrucoes","path":"rooms/fase4_instrucoes/fase4_instrucoes.yy",},},
+    {"roomId":{"name":"fase4","path":"rooms/fase4/fase4.yy",},},
     {"roomId":{"name":"transition_scene","path":"rooms/transition_scene/transition_scene.yy",},},
     {"roomId":{"name":"room_testes","path":"rooms/room_testes/room_testes.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -220,8 +222,6 @@
     {"roomId":{"name":"menu_sobre","path":"rooms/menu_sobre/menu_sobre.yy",},},
     {"roomId":{"name":"room_resultados","path":"rooms/room_resultados/room_resultados.yy",},},
     {"roomId":{"name":"menu_configs","path":"rooms/menu_configs/menu_configs.yy",},},
-    {"roomId":{"name":"fase4","path":"rooms/fase4/fase4.yy",},},
-    {"roomId":{"name":"fase4_instrucoes","path":"rooms/fase4_instrucoes/fase4_instrucoes.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
