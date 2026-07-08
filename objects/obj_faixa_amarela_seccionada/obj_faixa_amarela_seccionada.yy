@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_faixa_amarela_seccionada",
-    "path":"sprites/spr_faixa_amarela_seccionada/spr_faixa_amarela_seccionada.yy",
+    "name":"spr_listra",
+    "path":"sprites/spr_listra/spr_listra.yy",
   },
   "spriteMaskId":null,
   "visible":true,

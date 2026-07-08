@@ -3,8 +3,8 @@
   "%Name":"spr_faixa_amarela_seccionada",
   "bboxMode":0,
   "bbox_bottom":63,
-  "bbox_left":29,
-  "bbox_right":29,
+  "bbox_left":22,
+  "bbox_right":55,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"08c83da6-c2bb-4831-861b-5ec87c12f678","name":"08c83da6-c2bb-4831-861b-5ec87c12f678","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2fee9a40-6cd8-43af-927e-e4cd5c202f49","name":"2fee9a40-6cd8-43af-927e-e4cd5c202f49","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"c80386e9-bd08-48b2-b296-b5b90df52c95","blendMode":0,"displayName":"default","isLocked":false,"name":"c80386e9-bd08-48b2-b296-b5b90df52c95","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"9486d443-c636-4ea9-9935-455861faad95","blendMode":0,"displayName":"default","isLocked":false,"name":"9486d443-c636-4ea9-9935-455861faad95","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_faixa_amarela_seccionada",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"08c83da6-c2bb-4831-861b-5ec87c12f678","path":"sprites/spr_faixa_amarela_seccionada/spr_faixa_amarela_seccionada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ac8ee6e9-ffbc-41e1-ad80-61c2d459e514","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2fee9a40-6cd8-43af-927e-e4cd5c202f49","path":"sprites/spr_faixa_amarela_seccionada/spr_faixa_amarela_seccionada.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b942dc2d-15f7-4365-9a6a-9bcda355cb4f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

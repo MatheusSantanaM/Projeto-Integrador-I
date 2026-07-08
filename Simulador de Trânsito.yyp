@@ -179,6 +179,7 @@
     {"id":{"name":"spr_ganhou_chao","path":"sprites/spr_ganhou_chao/spr_ganhou_chao.yy",},},
     {"id":{"name":"spr_ganhou","path":"sprites/spr_ganhou/spr_ganhou.yy",},},
     {"id":{"name":"spr_jogar","path":"sprites/spr_jogar/spr_jogar.yy",},},
+    {"id":{"name":"spr_listra","path":"sprites/spr_listra/spr_listra.yy",},},
     {"id":{"name":"spr_nivel_dificuldade","path":"sprites/spr_nivel_dificuldade/spr_nivel_dificuldade.yy",},},
     {"id":{"name":"spr_opcoes","path":"sprites/spr_opcoes/spr_opcoes.yy",},},
     {"id":{"name":"spr_parabens","path":"sprites/spr_parabens/spr_parabens.yy",},},
