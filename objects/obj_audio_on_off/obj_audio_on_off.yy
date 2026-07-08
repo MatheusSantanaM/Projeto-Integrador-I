@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_parabens",
+  "%Name":"obj_audio_on_off",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_carro","path":"objects/obj_carro/obj_carro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_parabens",
+  "name":"obj_audio_on_off",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_parabens",
-    "path":"sprites/spr_parabens/spr_parabens.yy",
+    "name":"spr_on_off",
+    "path":"sprites/spr_on_off/spr_on_off.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_parabens",
+  "%Name":"obj_strs_configs",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_carro","path":"objects/obj_carro/obj_carro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":74,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_parabens",
+  "name":"obj_strs_configs",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_parabens",
-    "path":"sprites/spr_parabens/spr_parabens.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -44,7 +44,7 @@ for (var i = 0; i < array_length(global.success_log); i++) {
     draw_set_font(fnt_minecraftia_12);
     draw_set_color(make_color_rgb(59, 109, 17));
     var _desc = scr_fill_description(_ev.description, _ev.extra_data);
-    draw_text_ext(_card_x + 10, _cy + 34, _desc, -1, _card_w - 20);
+    draw_text_ext(_card_x + 10, _cy + 45, _desc, -1, _card_w - 20);
 }
 
 // Mensagem se não houver acertos
