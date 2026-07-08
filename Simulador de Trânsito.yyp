@@ -131,6 +131,7 @@
     {"id":{"name":"scr_register_sucess","path":"scripts/scr_register_sucess/scr_register_sucess.yy",},},
     {"id":{"name":"scr_som_acerto","path":"scripts/scr_som_acerto/scr_som_acerto.yy",},},
     {"id":{"name":"scr_som_sucess","path":"scripts/scr_som_sucess/scr_som_sucess.yy",},},
+    {"id":{"name":"scr_trilha","path":"scripts/scr_trilha/scr_trilha.yy",},},
     {"id":{"name":"teste_carro","path":"scripts/teste_carro/teste_carro.yy",},},
     {"id":{"name":"som_acerto","path":"sounds/som_acerto/som_acerto.yy",},},
     {"id":{"name":"som_buzina","path":"sounds/som_buzina/som_buzina.yy",},},

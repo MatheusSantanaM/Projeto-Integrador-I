@@ -12,9 +12,7 @@ if(image_index=0){
 	with (obj_audio_on_off){
 		image_index=1
 	}
-	with (obj_efeitos_on_off){
-		image_index=1
-	}
+	
 	with(obj_trilha_on_off){
 		image_index=1
 	}
@@ -28,9 +26,6 @@ if(image_index=0){
 	}
 	
 	with (obj_audio_on_off){
-		image_index=0
-	}
-	with (obj_efeitos_on_off){
 		image_index=0
 	}
 	with(obj_trilha_on_off){
